@@ -1,9 +1,12 @@
 # leetcode
 
 ## Arrays & Hashing
+- [27. Remove Element](https://github.com/flenhu/leetcode/blob/main/easy/27_removeElement.ipynb) (easy) 
 
 ## Two Pointers
-- [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/easy/removeDuplicatesFromSortedArray.ipynb) (easy)
+- [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/easy/26_removeDuplicatesFromSortedArray.ipynb) (easy)
+
+- 
 
 ## Sliding Window
 
