@@ -14,7 +14,12 @@
 
 | Problem | Difficulty | Python | JavaScript | Java | C/C++ | Blind 75 |
 |---------|------------|--------|------------|------|-------|----------|
-| [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)<br> | [JS](https://github.com/flenhu/leetcode)<br> | ☕️<br> | [C](https://github.com/flenhu/leetcode)<br> | ✓ |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 
+[🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)<br> 
+| [JS](https://github.com/flenhu/leetcode)<br> | ☕️<br> | 
+[C](https://github.com/flenhu/leetcode)<br> | ✓ |
+
+
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)<br> | [JS](https://github.com/flenhu/leetcode)<br> | ☕️<br> | [C](https://github.com/flenhu/leetcode)<br> |  |
 
 
