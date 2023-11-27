@@ -1,10 +1,10 @@
 # All Leetcode Problems
 
 ## Arrays & Hashing
-| Problem | Difficulty | Python | JavaScript | Java | C/C++ | Blind 75 |
-|---------|------------|--------|------------|------|-------|----------|
-|27. Remove Element| Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | [JS](https://github.com/flenhu/leetcode) | [☕️]((https://github.com/flenhu/leetcode) | [C](https://github.com/flenhu/leetcode) | ✓ |
-| 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) | 
+| Problem | Difficulty | Python | JS | Java | C++ | Blind 75 |
+|---------|------------|--------|-------------------------------------------------|------|-------|----------|
+| 27. Remove Element| Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) | ✓ |
+| 217. Contains Duplicate| Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) |  |
 
 
 ## Two Pointers
@@ -25,10 +25,6 @@
 
 ## Sliding Window
 
-| Problem | Difficulty | Python | ![](https://icons8.com/icon/108784/javascript)  | Java | C/C++ | Blind 75 |
-|---------|------------|--------|-------------------------------------------------|------|-------|----------|
-| [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | [JS](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [C](https://github.com/flenhu/leetcode) | ✓ |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) | [JS](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [C](https://github.com/flenhu/leetcode) |  |
 ## Stack
 
 ## Binary Search
