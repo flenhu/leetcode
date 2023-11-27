@@ -1,4 +1,4 @@
-# all leetcode problems
+# All Leetcode Problems
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy)
@@ -6,10 +6,11 @@
   | JS
   | ☕️
   | C
-
-
-
-- [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/easy/217_containsDuplicate.ipynb) (easy)
+- 217\. Contains Duplicate (easy)
+  | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)
+  | JS
+  | ☕️
+  | C
 
 ## Two Pointers
 
