@@ -2,7 +2,7 @@
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy)
-| [Py](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+| [https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
 | Java
 | JS 
 | C
