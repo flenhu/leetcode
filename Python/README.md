@@ -1,4 +1,4 @@
-# Leetcode problems in Python
+# Leetcode problems in Python 🐍
 
 ## Arrays & Hashing
 - [27. Remove element (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
