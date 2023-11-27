@@ -10,7 +10,7 @@
 | [☕️](https://github.com/flenhu/leetcode) 
 | [C](https://github.com/flenhu/leetcode)
 
-- 242\. Valid Anagram (easy) (🧑‍🦯7️⃣5️⃣)
+- 242\. Valid Anagram (easy)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
