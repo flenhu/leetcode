@@ -1,8 +1,9 @@
 # Leetcode problems in Python 🐍
 
 ## Arrays & Hashing
-- [27. Remove element (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
-- [217. Contains Duplicate (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)
+- [27. Remove element](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) (easy)
+- [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) (easy)
+- [242. Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) (easy)
 
 ## Two Pointers
 
