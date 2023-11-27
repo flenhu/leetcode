@@ -7,13 +7,13 @@
 | [☕️](https://github.com/flenhu/leetcode) 
 | [C](https://github.com/flenhu/leetcode) 
 
-- 217\. Contains Duplicate (easy) (Blind 75)
+- 217\. Contains Duplicate (easy) (🧑‍🦯7️⃣5️⃣)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
 | [JS](https://github.com/flenhu/leetcode) 
 | [☕️](https://github.com/flenhu/leetcode) 
 | [C](https://github.com/flenhu/leetcode)
 
-- 242\. Valid Anagram (easy) (Blind 75)
+- 242\. Valid Anagram (easy) (🧑‍🦯7️⃣5️⃣)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
