@@ -6,9 +6,11 @@
 - [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/easy/217_containsDuplicate.ipynb) (easy)
 
 ## Two Pointers
-- [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/easy/26_removeDuplicatesFromSortedArray.ipynb) (easy)
 
-- 
+
+- 26. Remove Duplicates From Sorted Array (easy)
+
+-  
 
 ## Sliding Window
 
