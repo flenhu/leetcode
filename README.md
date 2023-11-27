@@ -15,6 +15,7 @@
 
 - 242\. Valid Anagram (easy)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
+| [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
 ## Two Pointers
 - 26\. Remove Duplicates From Sorted Array (easy) 
