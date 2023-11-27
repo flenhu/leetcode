@@ -25,7 +25,7 @@
 
 ## Sliding Window
 
-| Problem | Difficulty | Python | <i class="fa-brands fa-js" style="color: #f7df1e;"></i>  | Java | C/C++ | Blind 75 |
+| Problem | Difficulty | Python | ![js](https://icons8.com/icon/108784/javascript)  | Java | C/C++ | Blind 75 |
 |---------|------------|--------|-------------------------------------------------|------|-------|----------|
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | [JS](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [C](https://github.com/flenhu/leetcode) | ✓ |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) | [JS](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [C](https://github.com/flenhu/leetcode) |  |
