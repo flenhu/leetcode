@@ -18,12 +18,7 @@
 
 | Problem | difficulty | Code | Blind 75 |
 |:---------|:----:|------|:--------:|
-|26.Remove Duplicates From Sorted Array |easy | 
-[🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)    
-[JS]()
-[☕️]()
-[C]()
-| [x]  |
+|26.Remove Duplicates From Sorted Array |easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) [JS](https://github.com/flenhu/leetcode) [☕️](https://github.com/flenhu/leetcode) [C](https://github.com/flenhu/leetcode) | [x]  |
 
 |         |            |      |          |
 
