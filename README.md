@@ -3,9 +3,9 @@
 ## Arrays & Hashing
 - 27\. Remove Element (easy)
   | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
-  | 🇨
-  | ☕ JavaScript
-  | 🌍 Java
+  | JS
+  | ☕️
+  | C
 
 
 
