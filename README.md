@@ -19,7 +19,7 @@
 |26.Remove Duplicates From Sorted Array |easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)    | [x]  | -->
 
 
-|---------|------------|--------|----|------|-----|----------|
+
 | 26. Remove Duplicates From Sorted Array | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) | ✓ |
 
 ## Sliding Window
