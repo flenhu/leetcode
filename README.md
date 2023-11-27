@@ -1,15 +1,17 @@
 # All Leetcode Problems
 
 ## Arrays & Hashing
-| Problem | Difficulty | Python | JS | Java | C++ | Blind 75 |
-|---------|------------|--------|-------------------------------------------------|------|-------|----------|
-| 27. Remove Element| Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) | ✓ |
+- 27. Remove Element (easy) |
+[🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) | 
+[🟡](https://github.com/flenhu/leetcode) | 
+[☕️](https://github.com/flenhu/leetcode) | 
+[💾](https://github.com/flenhu/leetcode) |
+
 | 217. Contains Duplicate| Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) |  |
 
 
 ## Two Pointers
-| Problem | Difficulty | Python | JS | Java | C++ | Blind 75 |
-|---------|------------|--------|----|------|-----|----------|
+
 | 26. Remove Duplicates From Sorted Array | Easy | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) | [🟡](https://github.com/flenhu/leetcode) | [☕️](https://github.com/flenhu/leetcode) | [💾](https://github.com/flenhu/leetcode) | ✓ |
 
 
