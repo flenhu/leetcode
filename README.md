@@ -1,14 +1,15 @@
-# leetcode
+# leetcode problems in Python
 
 ## Arrays & Hashing
 
-- [27. Remove Element](https://github.com/flenhu/leetcode/blob/main/easy/27_removeElement.ipynb) (easy)
+- [27. Remove Element (easy)](https://github.com/flenhu/leetcode/blob/main/easy/27_removeElement.ipynb) (easy)
 - [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/easy/217_containsDuplicate.ipynb) (easy)
 
 ## Two Pointers
 
 
-- 26. Remove Duplicates From Sorted Array (easy)
+- 26. Remove Duplicates From Sorted Array (easy) 
+[Py](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray_py.ipynb)
 
 -  
 
