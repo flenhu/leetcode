@@ -9,10 +9,13 @@
 
 
 - 27\. Remove Element (easy)
-  | [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+  | <a href="https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb">
+      <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="20" height="20"/>
+    </a>
   | Java
   | JS 
   | C
+
 
 - [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/easy/217_containsDuplicate.ipynb) (easy)
 
