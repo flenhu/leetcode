@@ -1,5 +1,7 @@
 # Blind 75 Problems
-![Blind 75 picture](https://media-cn.lintcode.com/new_storage_v2/public/202211/8a25d4cb-60e8-4007-8cb7-0b86ff6093ad.png)
+<p align="center">
+  <img src="https://media-cn.lintcode.com/new_storage_v2/public/202211/8a25d4cb-60e8-4007-8cb7-0b86ff6093ad.png" alt="Blind 75 picture">
+</p>
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy) 
