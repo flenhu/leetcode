@@ -6,16 +6,7 @@
 
 ## Two Pointers
 
-
-- 26\. Remove Duplicates From Sorted Array (easy) 
-| [Py](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
-| Java
-| JS 
-| C
-
-
-
-
+- [26. Remove Duplicates From Sorted Array (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
 -  
 
 ## Sliding Window
