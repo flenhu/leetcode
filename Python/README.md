@@ -1,13 +1,8 @@
-# all leetcode problems
+# Leetcode problems in Python
 
 ## Arrays & Hashing
-- 27\. Remove Element (easy)
-| [Py](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
-| Java
-| JS 
-| C
-
-- [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/easy/217_containsDuplicate.ipynb) (easy)
+- [27. Remove element (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+- [217. Contains Duplicate (easy)](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)
 
 ## Two Pointers
 
