@@ -1,11 +1,17 @@
-# C++ Leetcode Problems
+# All Leetcode Problems
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy) 
-
+| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+| [JS](https://github.com/flenhu/leetcode)
+| [☕️](https://github.com/flenhu/leetcode) 
+| [C](https://github.com/flenhu/leetcode) 
 
 - 217\. Contains Duplicate (easy)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
+| [JS](https://github.com/flenhu/leetcode) 
+| [☕️](https://github.com/flenhu/leetcode) 
+| [C](https://github.com/flenhu/leetcode)
 
 - 242\. Valid Anagram (easy)
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
@@ -45,3 +51,4 @@
 ## Math & Geometry
 
 ## Bit Manipulation
+
