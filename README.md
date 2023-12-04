@@ -50,7 +50,7 @@
 
 ## Tries
 - 208\. Implement Trie (Prefix Tree) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/208_implementTrie_PrefixTree.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/208_implementTrie_PrefixTree.ipynb)
 
 ## Heap & Priority Queue
 - 703\. Kth Largest Element In a Stream · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
@@ -58,15 +58,15 @@
 
 ## Backtracking 
 - 78\. Subsets · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/78_subsets.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/78_subsets.ipynb)
 
 ## Graphs
 - 200\. Number of Islands · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/200_numberOfIslands.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/200_numberOfIslands.ipynb)
 
 ## Advanced Graphs
 - 1584\. Min Cost to Connect All Points · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/1584_minCostToConnectAllPoints.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/1584_minCostToConnectAllPoints.ipynb)
 
 ## 1-D Dynamic Programming
 - 70\. Climbing Stairs · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
@@ -74,11 +74,11 @@
 
 ## 2-D Dynamic Programming 
 - 62\. Unique Paths · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/62_uniquePaths.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/62_uniquePaths.ipynb)
 
 ## Greedy
 - 53\. Maximum Subarray · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/53_maximumSubarray.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/53_maximumSubarray.ipynb)
 
 ## Intervals
 - 252\. Meeting Rooms · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
