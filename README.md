@@ -47,7 +47,7 @@
 
 ## Trees <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 226\. Invert Binary Tree · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb)
 
 ## Tries <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 208\. Implement Trie (Prefix Tree) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
