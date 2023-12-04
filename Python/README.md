@@ -8,7 +8,7 @@
 
 - [242. Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Two Pointers <!-- --------------------------------------------Section---------------------------------  -->
+## Two Pointers <!-- -----------------------------Two Pointers Section---------------------------------  -->
 
 - [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
@@ -18,7 +18,7 @@
 
 - [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Stack <!-- --------------------------------------------Section---------------------------------  -->
+## Stack <!-- ----------------------------------------Stack Section---------------------------------  -->
 
 - [20. Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb) · easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
 
