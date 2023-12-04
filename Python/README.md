@@ -45,7 +45,7 @@
 ## Advanced Graphs <!-- --------------------------------------------Section---------------------------------  -->
 
 ## 1-D Dynamic Programming <!-- -------------------------------Section---------------------------------  -->
-- [70. Climbing Stairs](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_climbingStairs.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
+- [70. Climbing Stairs](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_ClimbingStairs.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 
 
