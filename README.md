@@ -71,7 +71,7 @@
 
 ## 1-D Dynamic Programming <!-- -------------------------------------SECTION---------------------------------------------  -->
 - 70\. Climbing Stairs · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_climbingStairs.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_ClimbingStairs.ipynb)
 
 ## 2-D Dynamic Programming <!-- -------------------------------------SECTION---------------------------------------------  -->
 - 62\. Unique Paths · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
