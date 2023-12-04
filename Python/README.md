@@ -32,9 +32,11 @@
 ## Trees <!-- --------------------------------------------Section---------------------------------  -->
 - [226. Invert Binary Tree](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Tries <!-- --------------------------------------------Section---------------------------------  -->
+## Tries <!-- ------------------------------------------ Tries Section---------------------------------  -->
+- [208. Implement Trie (Prefix Tree)](https://github.com/flenhu/leetcode) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 
-## Heap & Priority Queue <!-- --------------------------------------------Section---------------------------------  -->
+## Heap & Priority Queue <!-- --------------------Heap & Priority Queue Section-------------------------  -->
+- [703. Kth Largest Element in a Stream](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_kthLargestElementinaStream.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 ## Backtracking <!-- --------------------------------------------Section---------------------------------  -->
 
