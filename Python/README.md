@@ -1,6 +1,6 @@
 # Leetcode problems in Python 🐍
 
-## Arrays & Hashing <!-- --------------------------------------------Section---------------------------------  -->
+## Arrays & Hashing <!-- -------------------------Arrays & Hashing Section-----------------------------  -->
 
 - [27. Remove element](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb) · easy🟢  
 

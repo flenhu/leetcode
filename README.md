@@ -1,6 +1,6 @@
 # All Leetcode Problems
 
-## Arrays & Hashing <!-- --------------------------------------------SECTION---------------------------------------------  -->
+## Arrays & Hashing <!-- -------------------------Arrays & Hashing Section-----------------------------  -->
 
 - 27\. Remove Element · easy 🟢 
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
@@ -18,8 +18,8 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 · [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
-## Two Pointers <!-- --------------------------------------------SECTION---------------------------------------------  -->
 
+## Two Pointers <!-- -----------------------------Two Pointers Section---------------------------------  -->
 
 - 26\. Remove Duplicates From Sorted Array · easy🟢 
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
