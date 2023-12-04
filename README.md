@@ -83,7 +83,7 @@
 
 ## Intervals <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 252\. Meeting Rooms · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/252_meetingRooms.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/252_MeetingRooms.ipynb)
 
 ## Math & Geometry <!-- --------------------------------------------SECTION---------------------------------------------  -->
 
