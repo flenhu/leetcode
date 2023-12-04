@@ -22,7 +22,7 @@
 
 - [20. Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb) · easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
 
-## Binary Search <!-- --------------------------------------------Section---------------------------------  -->
+## Binary Search <!-- -----------------------------------Binary Search Section--------------------------  -->
 
 - [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb) · easy 🟢
 
