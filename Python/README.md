@@ -30,6 +30,7 @@
 - [206. Reverse Linked List](https://github.com/flenhu/leetcode/blob/main/Python/easy/206_ReverseLinkedList.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 ## Trees <!-- --------------------------------------------Section---------------------------------  -->
+- [226. Invert Binary Tree](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 ## Tries <!-- --------------------------------------------Section---------------------------------  -->
 
