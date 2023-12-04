@@ -38,13 +38,17 @@
 ## Heap & Priority Queue <!-- --------------------Heap & Priority Queue Section-------------------------  -->
 - [703. Kth Largest Element in a Stream](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_KthLargestElementinaStream.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Backtracking <!-- --------------------------------------------Section---------------------------------  -->
+## Backtracking <!-- --------------------------------Section---------------------------------  -->
 
 ## Graphs <!-- --------------------------------------------Section---------------------------------  -->
 
 ## Advanced Graphs <!-- --------------------------------------------Section---------------------------------  -->
 
-## 1-D Dynamic Programming <!-- --------------------------------------------Section---------------------------------  -->
+## 1-D Dynamic Programming <!-- -------------------------------Section---------------------------------  -->
+- [70. Climbing Stairs](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_climbingStairs.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
+
+
+
 
 ## 2-D Dynamic Programming <!-- --------------------------------------------Section---------------------------------  -->
 
