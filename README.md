@@ -39,7 +39,7 @@
 
 ## Binary Search <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 704\. Binary Search · easy 🟢
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_binarySearch.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb)
 
 ## Linked List <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 206\. Reverse Linked List · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
