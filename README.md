@@ -23,7 +23,7 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/125_validPalindrome.ipynb) 
 
 
-- 26\. Remove Duplicates From Sorted Array (🟢easy) 
+- 26\. Remove Duplicates From Sorted Array · (🟢easy) 
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
 
 ## Sliding Window
@@ -49,7 +49,7 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
 
 ## Tries
-- 226\. Invert Binary Tree (🟢easy) · 🧑‍🦯7️⃣5️⃣
+- 226\. Invert Binary Tree · (🟢easy) · 🧑‍🦯7️⃣5️⃣
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
 
 ## Heap & Priority Queue
