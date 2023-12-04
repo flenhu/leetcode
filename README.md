@@ -49,7 +49,7 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
 
 ## Tries
-- 208\. Implement Trie (Prefix Tree) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 208\. Implement Trie (Prefix Tree) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/208_implementTrie_PrefixTree.ipynb)
 
 ## Heap & Priority Queue
@@ -57,15 +57,15 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_kthLargestElementinaStream.ipynb)
 
 ## Backtracking 
-- 78\. Subsets · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 78\. Subsets · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/78_subsets.ipynb)
 
 ## Graphs
-- 200\. Number of Islands · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 200\. Number of Islands · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/200_numberOfIslands.ipynb)
 
 ## Advanced Graphs
-- 1584\. Min Cost to Connect All Points · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 1584\. Min Cost to Connect All Points · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/1584_minCostToConnectAllPoints.ipynb)
 
 ## 1-D Dynamic Programming
@@ -73,11 +73,11 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_climbingStairs.ipynb)
 
 ## 2-D Dynamic Programming 
-- 62\. Unique Paths · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 62\. Unique Paths · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/62_uniquePaths.ipynb)
 
 ## Greedy
-- 53\. Maximum Subarray · medium 🟠 · 🧑‍🦯7️⃣5️⃣ 
+- 53\. Maximum Subarray · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/53_maximumSubarray.ipynb)
 
 ## Intervals
