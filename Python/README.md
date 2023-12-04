@@ -27,6 +27,7 @@
 - [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb) · easy 🟢
 
 ## Linked List <!-- --------------------------------------------Section---------------------------------  -->
+- [206. Reverse Linked List](https://github.com/flenhu/leetcode/blob/main/Python/easy/206_ReverseLinkedList.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 ## Trees <!-- --------------------------------------------Section---------------------------------  -->
 
