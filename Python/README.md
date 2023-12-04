@@ -24,7 +24,7 @@
 
 ## Binary Search <!-- --------------------------------------------Section---------------------------------  -->
 
-- [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_binarySearch.ipynb) · easy 🟢
+- [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb) · easy 🟢
 
 ## Linked List <!-- --------------------------------------------Section---------------------------------  -->
 
