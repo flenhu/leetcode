@@ -45,11 +45,11 @@
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/206_reverseLinkedList.ipynb)
 
 ## Trees
-- 226\. Invert Binary Tree (🟢easy) | 🧑‍🦯7️⃣5️⃣  
+- 226\. Invert Binary Tree (🟢easy) | 🧑‍🦯7️⃣5️⃣
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
 
 ## Tries
-- 226\. Invert Binary Tree (🟢easy) | 🧑‍🦯7️⃣5️⃣  
+- 226\. Invert Binary Tree (🟢easy) | 🧑‍🦯7️⃣5️⃣
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_invertBinaryTree.ipynb)
 
 ## Heap & Priority Queue
