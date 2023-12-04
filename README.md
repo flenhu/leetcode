@@ -35,7 +35,7 @@
 
 ## Stack <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 20\. Valid Parentheses · easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_validParentheses.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb)
 
 ## Binary Search <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 704\. Binary Search · easy 🟢
