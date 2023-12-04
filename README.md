@@ -33,7 +33,7 @@
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)
 
 
-## Stack <!-- --------------------------------------------SECTION---------------------------------------------  -->
+## Stack <!-- ----------------------------------------Stack Section---------------------------------  -->
 - 20\. Valid Parentheses · easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb)
 
