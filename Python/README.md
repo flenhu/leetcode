@@ -16,7 +16,7 @@
 
 ## Sliding Window <!-- --------------------------------------------Section---------------------------------  -->
 
-- [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_bestTimetoBuyAndSellStock.ipynb)) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
+- [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 ## Stack <!-- --------------------------------------------Section---------------------------------  -->
 

@@ -29,8 +29,8 @@
 
 ## Sliding Window <!-- --------------------------------------------SECTION---------------------------------------------  -->
 
-- 121\. Valid Palindrome · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_bestTimetoBuyAndSellStock.ipynb)
+- 121\. Best Time to Buy And Sell Stock · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)
 
 
 ## Stack <!-- --------------------------------------------SECTION---------------------------------------------  -->
