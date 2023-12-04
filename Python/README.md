@@ -7,8 +7,9 @@
 
 ## Two Pointers
 
-- [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) (easy)
--  
+- [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
+- [125. Valid Palindrome](https://github.com/flenhu/leetcode/blob/main/Python/easy/125_validPalindrome.ipynb) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
+
 
 ## Sliding Window
 
