@@ -55,7 +55,7 @@
 
 ## Heap & Priority Queue <!-- --------------------------------------------SECTION-------------------------------------------  -->
 - 703\. Kth Largest Element In a Stream · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_kthLargestElementinaStream.ipynb)
+· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_KthLargestElementinaStream.ipynb)
 
 ## Backtracking <!-- --------------------------------------------SECTION---------------------------------------------  -->
 - 78\. Subsets · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
