@@ -1,4 +1,4 @@
-# Heap & Priority Queue in Python
+# Heap & Priority Queue in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Reverse Linked List · easy 🟢 

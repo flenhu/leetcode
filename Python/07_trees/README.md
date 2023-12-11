@@ -1,4 +1,4 @@
-# Trees in Python
+# Trees in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Invert Binary Tree · easy 🟢 

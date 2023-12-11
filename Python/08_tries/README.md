@@ -1,4 +1,4 @@
-# Tries in Python
+# Tries in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Implement Trie Prefix Tree · medium 🟠

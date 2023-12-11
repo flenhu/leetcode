@@ -1,4 +1,4 @@
-# Graphs in Python
+# Graphs in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Number of Islands · medium 🟠
