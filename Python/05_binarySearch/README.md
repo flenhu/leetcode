@@ -12,12 +12,12 @@
 - [ ] Median of Two Sorted Arrays · hard 🔴
 
 ## NC All
-- [ ] Search Insert Position	
-- [ ] Guess Number Higher Or Lower	
-- [ ] Arranging Coins	
-- [ ] Squares of a Sorted Array	
-- [ ] Valid Perfect Square	
-- [ ] Sqrt(x)	
+- [ ] Search Insert Position · easy 🟢 
+- [ ] Guess Number Higher Or Lower · easy 🟢 
+- [ ] Arranging Coins · easy 🟢 
+- [ ] Squares of a Sorted Array · easy 🟢 
+- [ ] Valid Perfect Square · easy 🟢 
+- [ ] Sqrt(x) · easy 🟢 
 - [ ] Single Element in a Sorted Array · medium 🟠
 - [ ] Capacity to Ship Packages · medium 🟠
 - [ ] Find Peak Element · medium 🟠
