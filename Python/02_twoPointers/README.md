@@ -1,6 +1,5 @@
 # Two Pointers in Python
 
-
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [x] [Valid Palindrome](https://github.com/flenhu/leetcode/blob/main/Python/02_twoPointers/125_validPalindrome.ipynb) · easy 🟢  
 - [ ] 3Sum · medium 🟠
