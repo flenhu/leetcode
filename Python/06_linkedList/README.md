@@ -1,4 +1,4 @@
-# Linked Lists in Python
+# Linked Lists in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Reverse Linked List · easy 🟢 
