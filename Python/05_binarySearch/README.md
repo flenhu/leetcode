@@ -1,4 +1,4 @@
-# Binary Search in Python
+# Binary Search in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Find Minimum In Rotated Sorted Array · medium 🟠
