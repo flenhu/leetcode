@@ -1,4 +1,4 @@
-# Stack in Python
+# Stack in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [x] [Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/04_stack/20_validParentheses.ipynb) · easy 🟢  
