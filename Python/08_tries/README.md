@@ -1,11 +1,9 @@
 # Tries in Python
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Reverse Linked List · easy 🟢 
-- [ ] Reorder List · medium 🟠
-- [ ] Merge K Sorted Lists · hard 🔴
-
-## NC 150
-
+- [ ] Implement Trie Prefix Tree · medium 🟠
+- [ ] Design Add And Search Words Data Structure · medium 🟠
+- [ ] Word Search II · hard 🔴
 
 ## NC All
+- [ ] Extra Characters in a String · medium 🟠
