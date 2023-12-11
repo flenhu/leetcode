@@ -1,4 +1,4 @@
-# Arrays & Hashing in Python
+# Arrays & Hashing in Python 🐍
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
