@@ -1,4 +1,4 @@
-# Sliding Windows in Python
+# Sliding Windows in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] [Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
