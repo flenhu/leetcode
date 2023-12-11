@@ -1,31 +1,36 @@
-# Binary Search in Python
+# Linked Lists in Python
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Find Minimum In Rotated Sorted Array · medium 🟠
-- [ ] Search In Rotated Sorted Array · medium 🟠
+- [ ] Reverse Linked List · easy 🟢 
+- [ ] Merge Two Sorted Lists · easy 🟢 
+- [ ] Reorder List · medium 🟠
+- [ ] Remove Nth Node From End of List · medium 🟠
+- [ ] Linked List Cycle · easy 🟢 	
+- [ ] Merge K Sorted Lists · hard 🔴
 
 ## NC 150
-- [x] Binary Search · easy 🟢 
-- [ ] Search a 2D Matrix · medium 🟠
-- [ ] Koko Eating Banana · medium 🟠
-- [ ] Time Based Key Value Store · medium 🟠
-- [ ] Median of Two Sorted Arrays · hard 🔴
+- [ ] Copy List With Random Pointer · medium 🟠	
+- [ ] Add Two Numbers · medium 🟠
+- [ ] Find The Duplicate Number · medium 🟠
+- [ ] LRU Cache · medium 🟠
+- [ ] Reverse Nodes In K Group · hard 🔴
 
 ## NC All
-- [ ] Search Insert Position · easy 🟢 
-- [ ] Guess Number Higher Or Lower · easy 🟢 
-- [ ] Arranging Coins · easy 🟢 
-- [ ] Squares of a Sorted Array · easy 🟢 
-- [ ] Valid Perfect Square · easy 🟢 
-- [ ] Sqrt(x) · easy 🟢 
-- [ ] Single Element in a Sorted Array · medium 🟠
-- [ ] Capacity to Ship Packages · medium 🟠
-- [ ] Find Peak Element · medium 🟠
-- [ ] Successful Pairs of Spells and Potions · medium 🟠
-- [ ] Minimize the Maximum Difference of Pairs · medium 🟠	
-- [ ] Search In Rotated Sorted Array II · medium 🟠
-- [ ] Find First And Last Position of Element In Sorted Array · medium 🟠
-- [ ] Maximum Number of Removable Characters · medium 🟠
-- [ ] Populating Next Right Pointers In Each Node · medium 🟠
-- [ ] Search Suggestions System · medium 🟠
-- [ ] Split Array Largest Sum · hard 🔴
+- [ ] Palindrome Linked List · easy 🟢 
+- [ ] Remove Linked List Elements · easy 🟢 
+- [ ] Remove Duplicates From Sorted List · easy 🟢 
+- [ ] Middle of the Linked List · easy 🟢 
+- [ ] Intersection of Two Linked Lists · easy 🟢 
+- [ ] Maximum Twin Sum Of A Linked List · medium 🟠
+- [ ] Swapping Nodes in a Linked List	 · medium 🟠
+- [ ] LFU Cache · hard 🔴
+- [ ] Design Linked List · medium 🟠
+- [ ] Design Browser History · medium 🟠
+- [ ] Swap Nodes In Pairs · medium 🟠
+- [ ] Sort List · medium 🟠
+- [ ] Partition List · medium 🟠
+- [ ] Rotate List · medium 🟠
+- [ ] Reverse Linked List II · medium 🟠
+- [ ] Design Circular Queue · medium 🟠
+- [ ] Insertion Sort List · medium 🟠
+- [ ] Split Linked List in Parts · medium 🟠
