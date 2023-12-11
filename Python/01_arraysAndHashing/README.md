@@ -35,6 +35,7 @@
 - [ ] Find All Numbers Disappeared in An Array · easy 🟢  
 - [ ] Maximum Number of Balloons · easy 🟢  
 - [ ] Word Pattern · easy 🟢  
+- [ ] Sort an Array · medium 🟠
 - [ ] Design HashSet · easy 🟢  
 - [ ] Design HashMap · easy 🟢  
 - [ ] Sort Colors · medium 🟠
@@ -45,6 +46,7 @@
 - [ ] Unique Length 3 Palindromic Subsequences · medium 🟠
 - [ ] Minimum Number of Swaps to Make The String Balanced · medium 🟠
 - [ ] Number of Pairs Interchangeable Rectangles · medium 🟠
+- [ ] Maximum Product of The Length of Two Palindromic Subsequences · medium 🟠
 - [ ] Grid Game · medium 🟠
 - [ ] Find All Anagrams in a String · medium 🟠
 - [ ] Find The Index of The First Occurence in a String
