@@ -1,4 +1,4 @@
-# Arrays & Hashing in Python
+# Two Pointers in Python
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
