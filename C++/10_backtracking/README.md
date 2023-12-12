@@ -1,4 +1,4 @@
-# Backtracking in Java ☕️
+# Backtracking in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Combination Sum · medium 🟠
