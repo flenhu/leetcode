@@ -1,4 +1,4 @@
-# Tries in Java ☕️
+# Tries in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Implement Trie Prefix Tree · medium 🟠

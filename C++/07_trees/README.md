@@ -1,4 +1,4 @@
-# Trees in Java ☕️
+# Trees in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Invert Binary Tree · easy 🟢 

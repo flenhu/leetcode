@@ -1,4 +1,4 @@
-# Linked Lists in Java ☕️
+# Linked Lists in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Reverse Linked List · easy 🟢 
