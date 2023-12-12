@@ -1,4 +1,4 @@
-# Arrays & Hashing in Java ☕️
+# Arrays & Hashing in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Contains Duplicate · easy 🟢  

@@ -1,4 +1,4 @@
-# Two Pointers in Java ☕️
+# Two Pointers in C++ ☕️
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Valid Palindrome · easy 🟢  
