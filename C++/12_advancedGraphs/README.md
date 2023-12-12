@@ -1,4 +1,4 @@
-# Advanced Graphs in Java ☕️
+# Advanced Graphs in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Alien Dictionary · hard 🔴
