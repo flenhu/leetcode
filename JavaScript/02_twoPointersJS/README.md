@@ -1,4 +1,4 @@
-# Two Pointers in Python 🐍
+# Two Pointers in JavaScript
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Valid Palindrome · easy 🟢  
