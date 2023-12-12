@@ -1,4 +1,4 @@
-# Graphs in Java ☕️
+# Graphs in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Number of Islands · medium 🟠
