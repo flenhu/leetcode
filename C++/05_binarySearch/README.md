@@ -1,4 +1,4 @@
-# Binary Search in Java ☕️
+# Binary Search in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Find Minimum In Rotated Sorted Array · medium 🟠
