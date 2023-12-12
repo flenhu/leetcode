@@ -1,4 +1,4 @@
-# Java Leetcode Problems
+# Java Leetcode Problems ☕️
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy) 
