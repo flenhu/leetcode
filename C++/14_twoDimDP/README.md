@@ -1,4 +1,4 @@
-# 2-Dimensional Dynamic Programming in Java ☕️
+# 2-Dimensional Dynamic Programming in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Unique Paths · medium 🟠
