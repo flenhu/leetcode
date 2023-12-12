@@ -1,4 +1,4 @@
-# Stack in Java ☕️
+# Stack in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Valid Parentheses · easy 🟢  
