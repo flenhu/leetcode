@@ -1,4 +1,4 @@
-# Heap & Priority Queue in Java ☕️
+# Heap & Priority Queue in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Reverse Linked List · easy 🟢 
