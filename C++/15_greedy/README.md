@@ -1,4 +1,4 @@
-# Greedy in Java ☕️
+# Greedy in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Maximum Subarray · medium 🟠
