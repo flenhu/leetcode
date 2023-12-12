@@ -1,4 +1,4 @@
-# Bit Manipulation in Java ☕️
+# Bit Manipulation in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Number of 1 Bits · easy 🟢
