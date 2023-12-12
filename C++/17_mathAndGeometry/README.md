@@ -1,4 +1,4 @@
-# Math & Geometry in Java ☕️
+# Math & Geometry in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Rotate Image · medium 🟠

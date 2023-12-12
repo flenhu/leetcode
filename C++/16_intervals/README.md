@@ -1,4 +1,4 @@
-# Intervals in Java ☕️
+# Intervals in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Insert Interval · medium 🟠
