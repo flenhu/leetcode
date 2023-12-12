@@ -1,4 +1,4 @@
-# Sliding Windows in Java ☕️
+# Sliding Windows in C++
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Best Time to Buy And Sell Stock · easy 🟢
