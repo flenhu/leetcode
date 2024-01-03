@@ -1,15 +1,15 @@
 # Sliding Windows in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] [Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
+- [ ] [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
 
-- [ ] Longest Substring Without Repeating Characters · medium 🟠
-- [ ] Longest Repeating Character Replacement · medium 🟠
-- [ ] Minimum Window Substring · hard 🔴
+- [ ] 3. Longest Substring Without Repeating Characters · medium 🟠
+- [ ] 424. Longest Repeating Character Replacement · medium 🟠
+- [ ] 76. Minimum Window Substring · hard 🔴
 
 ## NC 150
-- [ ] Permutation In String · medium 🟠
-- [ ] Sliding Window Maximum · hard 🔴
+- [ ] 567. Permutation In String · medium 🟠
+- [ ] 239. Sliding Window Maximum · hard 🔴
 
 ## NC All
 - [ ] Contains Duplicate II · easy 🟢
