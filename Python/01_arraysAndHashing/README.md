@@ -38,13 +38,13 @@
 - [ ] 706. Design HashMap · easy 🟢  
 - [ ] 912. Sort an Array · medium 🟠
 - [ ] 75. Sort Colors · medium 🟠
-- [ ] Encode and Decode TinyURL · medium 🟠
-- [ ] Brick Wall · medium 🟠
-- [ ] Best Time to Buy And Sell Stock II · medium 🟠
-- [ ] Subarray Sum Equals K · medium 🟠
-- [ ] Unique Length 3 Palindromic Subsequences · medium 🟠
-- [ ] Minimum Number of Swaps to Make The String Balanced · medium 🟠
-- [ ] Number of Pairs Interchangeable Rectangles · medium 🟠
+- [ ] 535. Encode and Decode TinyURL · medium 🟠
+- [ ] 554. Brick Wall · medium 🟠
+- [ ] 122. Best Time to Buy And Sell Stock II · medium 🟠
+- [ ] 560. Subarray Sum Equals K · medium 🟠
+- [ ] 1930. Unique Length 3 Palindromic Subsequences · medium 🟠
+- [ ] 1963. Minimum Number of Swaps to Make The String Balanced · medium 🟠
+- [ ] 2001. Number of Pairs Interchangeable Rectangles · medium 🟠
 - [ ] 2002. Maximum Product of The Length of Two Palindromic Subsequences · medium 🟠
 - [ ] 2017. Grid Game · medium 🟠
 - [ ] 438. Find All Anagrams in a String · medium 🟠
