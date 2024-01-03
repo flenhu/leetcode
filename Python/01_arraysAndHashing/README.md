@@ -7,18 +7,17 @@
 
 - [x] [Two Sum](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1_twoSum.ipynb) · easy 🟢  
 
-- [ ] Group Anagrams · medium 🟠 
-- [ ] Top K Frequent Elements · medium 🟠 
-- [ ] Product of Array Except Self · medium 🟠 
-- [ ] Encode and Decode Strings · medium 🟠 
-- [ ] Longest Consecutive Sequence · medium 🟠
-
+- [ ] 49. Group Anagrams · medium 🟠 
+- [ ] 347. Top K Frequent Elements · medium 🟠 
+- [ ] 238. Product of Array Except Self · medium 🟠 
+- [ ] 271. Encode and Decode Strings · medium 🟠 
+- [ ] 128. Longest Consecutive Sequence · medium 🟠
 ## NC 150
 
-- [ ] Valid Sodoku · medium 🟠
+- [ ] 36. Valid Sodoku · medium 🟠
 
 ## NC All
-- [ ] Concatenation of Array · easy 🟢  
+- [x] [1929. Concatenation of Array](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1929_concatenationofArray.ipynb) · easy 🟢  
 - [ ] Replace Elements With Greatest Element on Right Side · easy 🟢  
 - [ ] Is Subsequence · easy 🟢  
 - [ ] Length of Last Word · easy 🟢  
