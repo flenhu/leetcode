@@ -12,14 +12,12 @@
 - [ ] 239. Sliding Window Maximum · hard 🔴
 
 ## NC All
-- [ ] Contains Duplicate II · easy 🟢
-- [ ] Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold · medium 🟠
-- [ ] Permutation In String · medium 🟠
-- [ ] Frequency of The Most Frequent Element · medium 🟠
-- [ ] Fruits into Basket · medium 🟠
-- [ ] Maximum Number of Vowels in a Substring of Given Length · medium 🟠
-- [ ] Minimum Number of Flips to Make The Binary String Alternating · medium 🟠
-- [ ] Minimum Size Subarray Sum · medium 🟠
-- [ ] Find K Closest Elements · medium 🟠
-- [ ] Minimum Operations to Reduce X to Zero · medium 🟠
-- [ ] Sliding Window Maximum · hard 🔴
+- [ ] 219. Contains Duplicate II · easy 🟢
+- [ ] 1343. Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold · medium 🟠
+- [ ] 1838. Frequency of The Most Frequent Element · medium 🟠
+- [ ] 904. Fruits into Basket · medium 🟠
+- [ ] 1456. Maximum Number of Vowels in a Substring of Given Length · medium 🟠
+- [ ] 1888. Minimum Number of Flips to Make The Binary String Alternating · medium 🟠
+- [ ] 209. Minimum Size Subarray Sum · medium 🟠
+- [ ] 658. Find K Closest Elements · medium 🟠
+- [ ] 1658. Minimum Operations to Reduce X to Zero · medium 🟠
