@@ -3,9 +3,9 @@
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [x] [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
-- [x] [Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/242_validAnagram.ipynb) · easy 🟢  
+- [x] [Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
 
-- [x] [Two Sum](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1_twoSum.ipynb) · easy 🟢  
+- [x] [Two Sum](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
 
 - [ ] 49. Group Anagrams · medium 🟠 
 - [ ] 347. Top K Frequent Elements · medium 🟠 
