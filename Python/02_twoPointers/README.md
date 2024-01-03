@@ -19,8 +19,8 @@
 - [ ] 283. Move Zeroes  · easy 🟢  
 - [ ] 26. Remove Duplicates from Sorted Array · easy 🟢  
 - [ ] 80. Remove Duplicates from Sorted Array II · medium 🟠
-- [ ] 4Sum · medium 🟠
-- [ ] Number of Subsequences That Satisfy The Given Sum Condition · medium 🟠
-- [ ] Rotate Array · medium 🟠
-- [ ] Array With Elements Not Equal to Average of Neighbors · medium 🟠
-- [ ] Boats to Save People · medium 🟠
+- [ ] 18. 4Sum · medium 🟠
+- [ ] 1498. Number of Subsequences That Satisfy The Given Sum Condition · medium 🟠
+- [ ] 189. Rotate Array · medium 🟠
+- [ ] 1968. Array With Elements Not Equal to Average of Neighbors · medium 🟠
+- [ ] 881. Boats to Save People · medium 🟠
