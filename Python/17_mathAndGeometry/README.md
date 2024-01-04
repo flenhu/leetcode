@@ -1,29 +1,29 @@
 # Math & Geometry in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Rotate Image · medium 🟠
-- [ ] Spiral Matrix · medium 🟠
-- [ ] Set Matrix Zeroes · medium 🟠
+- [ ] 48. Rotate Image · medium 🟠
+- [ ] 54. Spiral Matrix · medium 🟠
+- [ ] 73. Set Matrix Zeroes · medium 🟠
 
 ## NC 150
-- [ ] Happy Number · easy 🟢
-- [ ] Plus One · easy 🟢
-- [ ] Pow(x, n) · medium 🟠
-- [ ] Multiply Strings · medium 🟠
-- [ ] Detect Squares · medium 🟠
+- [ ] 202. Happy Number · easy 🟢
+- [ ] 66. Plus One · easy 🟢
+- [ ] 50. Pow(x, n) · medium 🟠
+- [ ] 43. Multiply Strings · medium 🟠
+- [ ] 2013. Detect Squares · medium 🟠
 
 ## NC All
-- [ ] Excel Sheet Column Title · easy 🟢
-- [ ] Greatest Common Divisor of Strings · easy 🟢
-- [ ] Count Odd Numbers in an Interval Range · easy 🟢
-- [ ] Matrix Diagonal Sum · easy 🟢
-- [ ] Maximum Points on a Line · hard 🔴
-- [ ] Spiral Matrix II · medium 🟠
-- [ ] Palindrome Number · easy 🟢
-- [ ] Ugly Number · easy 🟢
-- [ ] Shift 2D Grid · easy 🟢
-- [ ] Roman to Integer · easy 🟢
-- [ ] Integer to Roman · medium 🟠
-- [ ] Robot Bounded In Circle · medium 🟠
-- [ ] Zigzag Conversion · medium 🟠
-- [ ] Find Missing Observations · medium 🟠
+- [ ] 168. Excel Sheet Column Title · easy 🟢
+- [ ] 1071. Greatest Common Divisor of Strings · easy 🟢
+- [ ] 1523. Count Odd Numbers in an Interval Range · easy 🟢
+- [ ] 1572. Matrix Diagonal Sum · easy 🟢
+- [ ] 149. Maximum Points on a Line · hard 🔴
+- [ ] 59. Spiral Matrix II · medium 🟠
+- [ ] 9. Palindrome Number · easy 🟢
+- [ ] 263. Ugly Number · easy 🟢
+- [ ] 1260. Shift 2D Grid · easy 🟢
+- [ ] 13. Roman to Integer · easy 🟢
+- [ ] 12. Integer to Roman · medium 🟠
+- [ ] 1041. Robot Bounded In Circle · medium 🟠
+- [ ] 6. Zigzag Conversion · medium 🟠
+- [ ] 2028.Find Missing Observations · medium 🟠

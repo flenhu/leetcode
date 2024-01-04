@@ -1,18 +1,18 @@
 # Advanced Graphs in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Alien Dictionary · hard 🔴
+- [ ] 269. Alien Dictionary · hard 🔴
 
 ## NC 150
-- [ ] Reconstruct Itinerary · hard 🔴
-- [ ] Min Cost to Connect All Points · medium 🟠
-- [ ] Network Delay Time · medium 🟠
-- [ ] Swim In Rising Water · hard 🔴
-- [ ] Cheapest Flights Within K Stops · medium 🟠
+- [ ] 332. Reconstruct Itinerary · hard 🔴
+- [ ] 1584. Min Cost to Connect All Points · medium 🟠
+- [ ] 743. Network Delay Time · medium 🟠
+- [ ] 778. Swim In Rising Water · hard 🔴
+- [ ] 787. Cheapest Flights Within K Stops · medium 🟠
 
 ## NC All
-- [ ] Path with Minimum Effort · medium 🟠
-- [ ] Path with Maximum Probability · medium 🟠
-- [ ] Number of Good Paths · medium 🟠
-- [ ] Remove Max Number of Edges to Keep Graph Fully Traversable · medium 🟠
-- [ ] Find Critical and Pseudo Critical Edges in Minimum Spanning Tree · medium 🟠
+- [ ] 1631. Path with Minimum Effort · medium 🟠
+- [ ] 1514. Path with Maximum Probability · medium 🟠
+- [ ] 2421. Number of Good Paths · medium 🟠
+- [ ] 1579. Remove Max Number of Edges to Keep Graph Fully Traversable · medium 🟠
+- [ ] 1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree · medium 🟠

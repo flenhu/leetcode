@@ -1,15 +1,15 @@
 # Intervals in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Insert Interval · medium 🟠
-- [ ] Merge Intervals · medium 🟠
-- [ ] Non Overlapping Intervals · medium 🟠
-- [ ] Meeting Rooms · easy 🟢
-- [ ] Meeting Rooms II · medium 🟠
+- [ ] 57. Insert Interval · medium 🟠
+- [ ] 56. Merge Intervals · medium 🟠
+- [ ] 435. Non Overlapping Intervals · medium 🟠
+- [ ] 252. Meeting Rooms · easy 🟢
+- [ ] 253. Meeting Rooms II · medium 🟠
 
 ## NC 150
-- [ ] Minimum Interval to Include Each Query · hard 🔴
+- [ ] 1851. Minimum Interval to Include Each Query · hard 🔴
 
 ## NC All
-- [ ] Remove Covered Intervals · hard 🔴
-- [ ] Data Stream as Disjoint Intervals · hard 🔴
+- [ ] 1288. Remove Covered Intervals · hard 🔴
+- [ ] 352. Data Stream as Disjoint Intervals · hard 🔴

@@ -1,35 +1,35 @@
 # 2-Dimensional Dynamic Programming in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Unique Paths · medium 🟠
-- [ ] Longest Common Subsequence · medium 🟠
+- [ ] 62. Unique Paths · medium 🟠
+- [ ] 1143. Longest Common Subsequence · medium 🟠
 
 ## NC 150
-- [ ] Best Time to Buy And Sell Stock With Cooldown · medium 🟠
-- [ ] Coin Change II · medium 🟠
-- [ ] Target Sum · medium 🟠
-- [ ] Interleaving String · medium 🟠
-- [ ] Longest Increasing Path In a Matrix · hard 🔴
-- [ ] Distinct Subsequences · hard 🔴
-- [ ] Edit Distance · medium 🟠
-- [ ] Burst Balloons · hard 🔴
-- [ ] Regular Expression Matching · hard 🔴
+- [ ] 309. Best Time to Buy And Sell Stock With Cooldown · medium 🟠
+- [ ] 518. Coin Change II · medium 🟠
+- [ ] 494. Target Sum · medium 🟠
+- [ ] 97. Interleaving String · medium 🟠
+- [ ] 329. Longest Increasing Path In a Matrix · hard 🔴
+- [ ] 115. Distinct Subsequences · hard 🔴
+- [ ] 72. Edit Distance · medium 🟠
+- [ ] 312. Burst Balloons · hard 🔴
+- [ ] 10. Regular Expression Matching · hard 🔴
 
 ## NC All
-- [ ] Unique Paths II · medium 🟠
-- [ ] Longest Palindromic Subsequence · medium 🟠
-- [ ] Last Stone Weight II · medium 🟠
-- [ ] Stone Game · medium 🟠
-- [ ] Minimum Path Sum · medium 🟠
-- [ ] Maximal Square · medium 🟠
-- [ ] Ones and Zeroes · medium 🟠
-- [ ] Maximum Alternating Subsequence Sum · medium 🟠
-- [ ] Count Vowels Permutation · hard 🔴
-- [ ] Number of Ways to Rearrange Sticks With K Sticks Visible · hard 🔴
-- [ ] Stone Game II · medium 🟠
-- [ ] Flip String to Monotone Increasing · medium 🟠
-- [ ] Maximum Value of K Coins from Piles · hard 🔴
-- [ ] Number of Music Playlists · hard 🔴
-- [ ] Number of Ways to Form a Target String Given a Dictionary · hard 🔴
-- [ ] Profitable Schemes · hard 🔴
-- [ ] Minimum Cost to Cut a Stick · hard 🔴
+- [ ] 63. Unique Paths II · medium 🟠
+- [ ] 516. Longest Palindromic Subsequence · medium 🟠
+- [ ] 1049. Last Stone Weight II · medium 🟠
+- [ ] 877. Stone Game · medium 🟠
+- [ ] 64. Minimum Path Sum · medium 🟠
+- [ ] 221. Maximal Square · medium 🟠
+- [ ] 474. Ones and Zeroes · medium 🟠
+- [ ] 1911. Maximum Alternating Subsequence Sum · medium 🟠
+- [ ] 1220. Count Vowels Permutation · hard 🔴
+- [ ] 1866. Number of Ways to Rearrange Sticks With K Sticks Visible · hard 🔴
+- [ ] 1140. Stone Game II · medium 🟠
+- [ ] 926. Flip String to Monotone Increasing · medium 🟠
+- [ ] 2218. Maximum Value of K Coins from Piles · hard 🔴
+- [ ] 920. Number of Music Playlists · hard 🔴
+- [ ] 1639. Number of Ways to Form a Target String Given a Dictionary · hard 🔴
+- [ ] 879. Profitable Schemes · hard 🔴
+- [ ] 1547. Minimum Cost to Cut a Stick · hard 🔴
