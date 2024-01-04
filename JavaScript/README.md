@@ -1,6 +1,6 @@
-# JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 0.8em; width: auto;"> Leetcode Problems 
+# JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 1em; width: auto;"> Leetcode Problems 
 
-# JavaScript Problems <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="vertical-align: baseline; width: 20px;">
+# JavaScript Problems <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="vertical-align: baseline; width: 30px;">
 
 
 ## Arrays & Hashing
