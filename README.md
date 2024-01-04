@@ -3,7 +3,7 @@
 ## Arrays & Hashing 
 
 - 27\. Remove Element · easy 🟢 
-· [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: bottom;">](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+· [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
 · [JS](https://github.com/flenhu/leetcode)
 · [☕️](https://github.com/flenhu/leetcode) 
 · [C](https://github.com/flenhu/leetcode) 
