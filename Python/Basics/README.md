@@ -1,4 +1,5 @@
-# Basics in Python
+# Basics in Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" style="height: 1em; width: auto; vertical-align: sub;">
+
 
 Implementation of basic data structures, design patterns, and algorithms.
 

@@ -1,6 +1,6 @@
-# Python Leetcode problems 🐍
+# Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" style="height: 1em; width: auto; vertical-align: sub;"> Leetcode problems
 
-## Arrays & Hashing <!-- -------------------------Arrays & Hashing Section-----------------------------  -->
+## Arrays & Hashing 
 
 - [1. Two Sum](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1_twoSum.ipynb) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
@@ -12,56 +12,54 @@
 
 - [1929. Concatenation of Array](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1929_concatenationofArray.ipynb)· easy 🟢
 
-## Two Pointers <!-- -----------------------------Two Pointers Section---------------------------------  -->
+## Two Pointers
 
 - [26. Remove Duplicates From Sorted Array](https://github.com/flenhu/leetcode/blob/main/Python/02_twoPointers/26_removeDuplicatesFromSortedArray.ipynb)· easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 - [125. Valid Palindrome](https://github.com/flenhu/leetcode/blob/main/Python/02_twoPointers/125_validPalindrome.ipynb) · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Sliding Window <!-- --------------------------------------------Section---------------------------------  -->
+## Sliding Window 
 
 - [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb)· easy🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Stack <!-- ----------------------------------------Stack Section---------------------------------  -->
+## Stack 
 
 - [20. Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/04_stack/20_validParentheses.ipynb)· easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
 
-## Binary Search <!-- -----------------------------------Binary Search Section--------------------------  -->
+## Binary Search
 
 - [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/05_binarySearch/704_binarySearch.ipynb) · easy 🟢
 
-## Linked List <!-- --------------------------------------------Section---------------------------------  -->
+## Linked List 
 - [206. Reverse Linked List](https://github.com/flenhu/leetcode/blob/main/Python/06_linkedList/206_reverseLinkedList.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Trees <!-- --------------------------------------------Section---------------------------------  -->
+## Trees 
 - [226. Invert Binary Tree](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Tries <!-- ------------------------------------------ Tries Section---------------------------------  -->
+## Tries 
 
-## Heap & Priority Queue <!-- --------------------Heap & Priority Queue Section-------------------------  -->
+## Heap & Priority Queue 
 - [703. Kth Largest Element in a Stream](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_KthLargestElementinaStream.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
-## Backtracking <!-- --------------------------------Section---------------------------------  -->
+## Backtracking 
 
-## Graphs <!-- --------------------------------------------Section---------------------------------  -->
+## Graphs 
+## Advanced Graphs 
 
-## Advanced Graphs <!-- --------------------------------------------Section---------------------------------  -->
-
-## 1-D Dynamic Programming <!-- -------------------------------Section---------------------------------  -->
+## 1-D Dynamic Programming
 - [70. Climbing Stairs](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_ClimbingStairs.ipynb) · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 
 
 
 
-## 2-D Dynamic Programming <!-- --------------------------------------------Section---------------------------------  -->
+## 2-D Dynamic Programming 
 
-## Greedy <!-- --------------------------------------------Section---------------------------------  -->
+## Greedy 
 
-## Intervals <!-- --------------------------------------------Section---------------------------------  -->
+## Intervals
 
 - [252. Meeting Rooms](https://github.com/flenhu/leetcode/blob/main/Python/16_intervals/252_meetingRooms.ipynb)· easy 🟢 · 🧑‍🦯7️⃣5️⃣
 
-## Math & Geometry <!-- --------------------------------------------Section---------------------------------  -->
+## Math & Geometry 
 
-## Bit Manipulation <!-- --------------------------------------------Section---------------------------------  -->
-
+## Bit Manipulation 
