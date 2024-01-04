@@ -5,8 +5,8 @@
 - 27\. Remove Element · easy 🟢 
 · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
 · [<img src="assets/jsLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
-· [☕️](https://github.com/flenhu/leetcode) 
-· [C](https://github.com/flenhu/leetcode) 
+· [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+· [C](https://github.com/flenhu/leetcode)
 
 
 - 217\. Contains Duplicate · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
