@@ -1,4 +1,4 @@
-# Arrays & Hashing in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="vertical-align: baseline; height: 1em; width: auto;">
+# Arrays & Hashing in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="vertical-align: baseline; height: 1em; width: auto; vertical-align: top;">
 
 
 

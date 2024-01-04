@@ -1,4 +1,4 @@
-# Two Pointers in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 1em; width: auto;">
+# Two Pointers in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 1em; width: auto; vertical-align: top;">
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
