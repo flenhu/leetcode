@@ -1,4 +1,5 @@
-# Sliding Windows in Python 🐍
+# Sliding Windows in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" style="height: 1em; width: auto; vertical-align: sub;">
+
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
