@@ -1,52 +1,52 @@
 # Trees in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Invert Binary Tree · easy 🟢 
-- [ ] Maximum Depth of Binary Tree · easy 🟢 
-- [ ] Same Tree · easy 🟢 
-- [ ] Subtree of Another Tree · easy 🟢 
-- [ ] Lowest Common Ancestor of a Binary Search Tree · medium 🟠
-- [ ] Binary Tree Level Order Traversal · medium 🟠
-- [ ] Validate Binary Search Tree · medium 🟠
-- [ ] Kth Smallest Element In a Bst · medium 🟠
-- [ ] Construct Binary Tree From Preorder And Inorder Traversal
-- [ ] Binary Tree Maximum Path Sum · hard 🔴
-- [ ] Serialize And Deserialize Binary Tree · hard 🔴
+- [ ] 226. Invert Binary Tree · easy 🟢 
+- [ ] 104. Maximum Depth of Binary Tree · easy 🟢 
+- [ ] 100. Same Tree · easy 🟢 
+- [ ] 572. Subtree of Another Tree · easy 🟢 
+- [ ] 235. Lowest Common Ancestor of a Binary Search Tree · medium 🟠
+- [ ] 102. Binary Tree Level Order Traversal · medium 🟠
+- [ ] 98. Validate Binary Search Tree · medium 🟠
+- [ ] 230. Kth Smallest Element In a Bst · medium 🟠
+- [ ] 105. Construct Binary Tree From Preorder And Inorder Traversal
+- [ ] 124. Binary Tree Maximum Path Sum · hard 🔴
+- [ ] 297. Serialize And Deserialize Binary Tree · hard 🔴
 
 ## NC 150
-- [ ] Diameter of Binary Tree · easy 🟢 
-- [ ] Balanced Binary Tree · easy 🟢 
-- [ ] Binary Tree Right Side View · medium 🟠
-- [ ] Count Good Nodes In Binary Tree · medium 🟠
+- [ ] 543. Diameter of Binary Tree · easy 🟢 
+- [ ] 110. Balanced Binary Tree · easy 🟢 
+- [ ] 199.Binary Tree Right Side View · medium 🟠
+- [ ] 1448. Count Good Nodes In Binary Tree · medium 🟠
 
 ## NC All
-- [ ] Binary Tree Inorder Traversal · easy 🟢 
-- [ ] Binary Tree Preorder Traversal · easy 🟢 
-- [ ] Binary Tree Postorder Traversal · easy 🟢 
-- [ ] Convert Sorted Array to Binary Search Tree · easy 🟢 	
-- [ ] Merge Two Binary Trees · easy 🟢 
-- [ ] Path Sum · easy 🟢 
-- [ ] Construct String From Binary Tree · easy 🟢 
-- [ ] Insert into a Binary Search Tree · medium 🟠
-- [ ] Delete Node in a BST · medium 🟠
-- [ ] Minimum Distance between BST Nodes · easy 🟢 
-- [ ] Symmetric Tree · easy 🟢 
-- [ ] Minimum Time to Collect All Apples in a Tree · medium 🟠
-- [ ] Binary Tree Zigzag Level Order Traversal · medium 🟠
-- [ ] Construct Quad Tree · medium 🟠
-- [ ] Find Duplicate Subtrees · medium 🟠
-- [ ] Check Completeness of a Binary Tree · medium 🟠	
-- [ ] Construct Binary Tree from Inorder and Postorder Traversal · medium 🟠
-- [ ] Maximum Width of Binary Tree · medium 🟠
-- [ ] Time Needed to Inform All Employees · medium 🟠
-- [ ] Unique Binary Search Trees · medium 🟠
-- [ ] Unique Binary Search Trees II · medium 🟠
-- [ ] Sum Root to Leaf Numbers · medium 🟠
-- [ ] House Robber III · medium 🟠
-- [ ] Flip Equivalent Binary Trees · medium 🟠
-- [ ] Operations On Tree · medium 🟠
-- [ ] All Possible Full Binary Trees · medium 🟠	
-- [ ] Find Bottom Left Tree Value · medium 🟠
-- [ ] Trim a Binary Search Tree · medium 🟠
-- [ ] Binary Search Tree Iterator · medium 🟠
-- [ ] Convert Bst to Greater Tree · medium 🟠
+- [ ] 94. Binary Tree Inorder Traversal · easy 🟢 
+- [ ] 144. Binary Tree Preorder Traversal · easy 🟢 
+- [ ] 145. Binary Tree Postorder Traversal · easy 🟢 
+- [ ] 108. Convert Sorted Array to Binary Search Tree · easy 🟢 	
+- [ ] 617. Merge Two Binary Trees · easy 🟢 
+- [ ] 112. Path Sum · easy 🟢 
+- [ ] 606. Construct String From Binary Tree · easy 🟢 
+- [ ] 701. Insert into a Binary Search Tree · medium 🟠
+- [ ] 450. Delete Node in a BST · medium 🟠
+- [ ] 783. Minimum Distance between BST Nodes · easy 🟢 
+- [ ] 101. Symmetric Tree · easy 🟢 
+- [ ] 1443. Minimum Time to Collect All Apples in a Tree · medium 🟠
+- [ ] 103. Binary Tree Zigzag Level Order Traversal · medium 🟠
+- [ ] 427. Construct Quad Tree · medium 🟠
+- [ ] 652. Find Duplicate Subtrees · medium 🟠
+- [ ] 958. Check Completeness of a Binary Tree · medium 🟠	
+- [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal · medium 🟠
+- [ ] 662. Maximum Width of Binary Tree · medium 🟠
+- [ ] 1376. Time Needed to Inform All Employees · medium 🟠
+- [ ] 96. Unique Binary Search Trees · medium 🟠
+- [ ] 95. Unique Binary Search Trees II · medium 🟠
+- [ ] 129. Sum Root to Leaf Numbers · medium 🟠
+- [ ] 337. House Robber III · medium 🟠
+- [ ] 951. Flip Equivalent Binary Trees · medium 🟠
+- [ ] 1993. Operations On Tree · medium 🟠
+- [ ] 894. All Possible Full Binary Trees · medium 🟠	
+- [ ] 513. Find Bottom Left Tree Value · medium 🟠
+- [ ] 669. Trim a Binary Search Tree · medium 🟠
+- [ ] 173. Binary Search Tree Iterator · medium 🟠
+- [ ] 538. Convert Bst to Greater Tree · medium 🟠
