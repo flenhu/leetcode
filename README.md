@@ -3,10 +3,11 @@
 ## Arrays & Hashing 
 
 - 27\. Remove Element · easy 🟢 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
+· [<img src="/assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/Python/easy/27_removeElement.ipynb)
 · [JS](https://github.com/flenhu/leetcode)
 · [☕️](https://github.com/flenhu/leetcode) 
 · [C](https://github.com/flenhu/leetcode) 
+
 
 - 217\. Contains Duplicate · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
 · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
