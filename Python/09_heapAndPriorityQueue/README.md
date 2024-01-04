@@ -1,27 +1,25 @@
 # Heap & Priority Queue in Python 🐍
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] Reverse Linked List · easy 🟢 
-- [ ] Reorder List · medium 🟠
-- [ ] Find Median From Data Stream · hard 🔴
+- [ ] 295. Find Median From Data Stream · hard 🔴
 
 ## NC 150
-- [ ] Kth Largest Element In a Stream · easy 🟢 
-- [ ] Last Stone Weight · easy 🟢 
-- [ ] K Closest Points to Origin · medium 🟠
-- [ ] Kth Largest Element In An Array · medium 🟠
-- [ ] Task Scheduler · medium 🟠
-- [ ] Design Twitter · medium 🟠
+- [ ] 703. Kth Largest Element In a Stream · easy 🟢 
+- [ ] 1046. Last Stone Weight · easy 🟢 
+- [ ] 973. K Closest Points to Origin · medium 🟠
+- [ ] 215. Kth Largest Element In An Array · medium 🟠
+- [ ] 621. Task Scheduler · medium 🟠
+- [ ] 355. Design Twitter · medium 🟠
 
 ## NC All
-- [ ] Minimize Deviation in Array · hard 🔴
-- [ ] Maximum Subsequence Score · medium 🟠
-- [ ] Single Threaded Cpu · medium 🟠
-- [ ] Seat Reservation Manager · medium 🟠
-- [ ] Process Tasks Using Servers · medium 🟠
-- [ ] Find The Kth Largest Integer In The Array · medium 🟠	
-- [ ] Reorganize String · medium 🟠
-- [ ] Longest Happy String · medium 🟠
-- [ ] Car Pooling · medium 🟠
-- [ ] Maximum Performance of a Team · hard 🔴
-- [ ] IPO · hard 🔴
+- [ ] 1675. Minimize Deviation in Array · hard 🔴
+- [ ] 2542. Maximum Subsequence Score · medium 🟠
+- [ ] 1834. Single-Threaded CPU · medium 🟠
+- [ ] 1845. Seat Reservation Manager · medium 🟠
+- [ ] 1882. Process Tasks Using Servers · medium 🟠
+- [ ] 1985. Find The Kth Largest Integer In The Array · medium 🟠	
+- [ ] 767. Reorganize String · medium 🟠
+- [ ] 1405. Longest Happy String · medium 🟠
+- [ ] 1094. Car Pooling · medium 🟠
+- [ ] 1383. Maximum Performance of a Team · hard 🔴
+- [ ] 502. IPO · hard 🔴
