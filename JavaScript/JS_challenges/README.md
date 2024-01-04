@@ -1,4 +1,6 @@
-# JavaScript Challenges
+# JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 0.9em; width: auto;">  Challenges
+
+
 
 - [ ] Create Hello World Function · easy 🟢
 - [ ] Counter · easy 🟢

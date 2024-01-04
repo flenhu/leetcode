@@ -1,18 +1,15 @@
-# JavaScript Leetcode Problems
+# JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="height: 0.8em; width: auto;"> Leetcode Problems 
 
 ## Arrays & Hashing
 - 27\. Remove Element (easy) 
 
 
 - 217\. Contains Duplicate (easy)
-| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
 
 - 242\. Valid Anagram (easy)
-| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 
 ## Two Pointers
-- 26\. Remove Duplicates From Sorted Array (easy) 
-| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
+
 
 ## Sliding Window
 
