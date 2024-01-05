@@ -16,8 +16,8 @@
   · [C](https://github.com/flenhu/leetcode)
 
 - 242\. Valid Anagram · easy 🟢
-  · [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: bottom;">](https://github.com/flenhu/leetcode)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: bottom;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: top;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: top;">](https://github.com/flenhu/leetcode)
   · [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
 ## Two Pointers
