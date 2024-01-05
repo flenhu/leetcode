@@ -5,40 +5,31 @@
 - Contains Duplicate · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [JS](https://github.com/flenhu/leetcode)
-  · [☕️](https://github.com/flenhu/leetcode)
-  · [C](https://github.com/flenhu/leetcode)
+  · [<img src="assets/jsLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/cppLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
 - Valid Anagram · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: top;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: top;">](https://github.com/flenhu/leetcode)
-  · [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
 - Concatenation of Array · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [JS](https://github.com/flenhu/leetcode)
-  · [☕️](https://github.com/flenhu/leetcode)
-  · [C](https://github.com/flenhu/leetcode)
 
 - Two Sum · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [JS](https://github.com/flenhu/leetcode)
-  · [☕️](https://github.com/flenhu/leetcode)
-  · [C](https://github.com/flenhu/leetcode)
 
 - Remove Element · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [JS](https://github.com/flenhu/leetcode)
-  · [☕️](https://github.com/flenhu/leetcode)
-  · [C](https://github.com/flenhu/leetcode)
 
 ## Two Pointers
 
-- 26\. Remove Duplicates From Sorted Array · easy🟢
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+- Valid Palindrome · easy🟢 · 🧑‍🦯7️⃣5️⃣
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
-- 125\. Valid Palindrome · easy🟢 · 🧑‍🦯7️⃣5️⃣
+- Remove Duplicates From Sorted Array · easy🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
 
 ## Sliding Window
