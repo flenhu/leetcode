@@ -3,6 +3,7 @@
 ## Arrays & Hashing
 
 - 27\. Remove Element · easy 🟢
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/jsLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/javaLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
