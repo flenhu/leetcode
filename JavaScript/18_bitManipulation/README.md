@@ -1,4 +1,4 @@
-# Bit Manipulation in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript Logo" style="vertical-align: baseline; height: 1em; width: auto; vertical-align: top;">
+# Bit Manipulation in <img src="../../assets/jsLogo.png" style="height: 1em; vertical-align: top;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Number of 1 Bits · easy 🟢
