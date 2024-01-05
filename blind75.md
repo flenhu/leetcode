@@ -1,16 +1,23 @@
 # Blind 75 Problems 🧑‍🦯7️⃣5️⃣
 
 ## Arrays & Hashing
-- 217\. Contains Duplicate (easy)
+- Contains Duplicate· easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
 | [JS](https://github.com/flenhu/leetcode) 
 | [☕️](https://github.com/flenhu/leetcode) 
 | [C](https://github.com/flenhu/leetcode)
 
-- 242\. Valid Anagram (easy)
+- Valid Anagram · easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
+- Two Sum · easy 🟢
+- Group Anagrams · medium 🟠 
+- Top K Frequent Elements · medium 🟠 
+- Product of Array Except Self · medium 🟠 
+- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)· medium 🟠 
+-  · medium 🟠 
+-  · easy 🟢
 ## Two Pointers
 
 
