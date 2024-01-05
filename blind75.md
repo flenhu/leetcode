@@ -1,7 +1,7 @@
 # Blind 75 Problems 🧑‍🦯7️⃣5️⃣
 
 ## Arrays & Hashing
-- Contains Duplicate· easy 🟢
+- Contains Duplicate · easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
 | [JS](https://github.com/flenhu/leetcode) 
 | [☕️](https://github.com/flenhu/leetcode) 
@@ -21,7 +21,7 @@
 ## Two Pointers
 - [Valid Palindrome]() · easy 🟢
 - [3Sum]() · medium 🟠 
-- [Container With Most Water] · medium 🟠 
+- [Container With Most Water]() · medium 🟠 
 
 ## Sliding Window
 - [Best Time to Buy And Sell Stock]() · easy 🟢
@@ -101,21 +101,21 @@
 - [Jump Game]() · medium 🟠
 
 ## Intervals
-- [Insert Interval]() · medium 🟠
-- [Merge Intervals]() · medium 🟠
-- [Non Overlapping]() Intervals · medium 🟠
-- [Meeting Rooms]() · easy 🟢
-- [Meeting Rooms II]() · medium 🟠
+- [Insert Interval](https://leetcode.com/problems/insert-interval/) · medium 🟠
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) · medium 🟠
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) · medium 🟠
+- [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) · easy 🟢
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) · medium 🟠
 
 ## Math & Geometry
-- [Rotate Image]() · medium 🟠
-- [Spiral Matrix]() · medium 🟠
-- [Set Matrix Zeroes]() · medium 🟠
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) · medium 🟠
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) · medium 🟠
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) · medium 🟠
 
 ## Bit Manipulation
-- [Number of 1 Bits]() · easy 🟢
-- [Counting Bits]() · easy 🟢
-- [Reverse Bits]() · easy 🟢
-- [Missing Number]() · easy 🟢
-- [Sum of Two Integers]() · medium 🟠
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) · easy 🟢
+- [Counting Bits](https://leetcode.com/problems/counting-bits/) · easy 🟢
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) · easy 🟢
+- [Missing Number](https://leetcode.com/problems/missing-number/) · easy 🟢
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) · medium 🟠
 
