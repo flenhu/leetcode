@@ -1,90 +1,101 @@
 # All Leetcode Problems
 
-## Arrays & Hashing 
+## Arrays & Hashing
 
-- 27\. Remove Element · easy 🟢 
-· [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
-· [<img src="assets/jsLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
-· [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
-· [C](https://github.com/flenhu/leetcode)
+- 27\. Remove Element · easy 🟢
+  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/jsLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/cppLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
 
+- 217\. Contains Duplicate · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)
+  · [JS](https://github.com/flenhu/leetcode)
+  · [☕️](https://github.com/flenhu/leetcode)
+  · [C](https://github.com/flenhu/leetcode)
 
-- 217\. Contains Duplicate · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
-· [JS](https://github.com/flenhu/leetcode) 
-· [☕️](https://github.com/flenhu/leetcode) 
-· [C](https://github.com/flenhu/leetcode)
+- 242\. Valid Anagram · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb)
+  · [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
-- 242\. Valid Anagram · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
-· [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
+## Two Pointers
 
+- 26\. Remove Duplicates From Sorted Array · easy🟢
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
 
-## Two Pointers 
+- 125\. Valid Palindrome · easy🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/125_validPalindrome.ipynb)
 
-- 26\. Remove Duplicates From Sorted Array · easy🟢 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/26_removeDuplicatesFromSortedArray.ipynb)
+## Sliding Window
 
-- 125\. Valid Palindrome · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/125_validPalindrome.ipynb) 
+- 121\. Best Time to Buy And Sell Stock · easy🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)
 
-## Sliding Window 
+## Stack
 
-- 121\. Best Time to Buy And Sell Stock · easy🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/121_BestTimetoBuyAndSellStock.ipynb)
+- 20\. Valid Parentheses · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb)
 
+## Binary Search
 
-## Stack 
-- 20\. Valid Parentheses · easy 🟢  · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/20_ValidParentheses.ipynb)
-
-## Binary Search 
 - 704\. Binary Search · easy 🟢
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb)
 
-## Linked List 
-- 206\. Reverse Linked List · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/206_reverseLinkedList.ipynb)
+## Linked List
 
-## Trees <!-- 
-- 226\. Invert Binary Tree · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb)
+- 206\. Reverse Linked List · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/206_reverseLinkedList.ipynb)
 
-## Tries 
+## Trees <!--
+
+- 226\. Invert Binary Tree · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/226_InvertBinaryTree.ipynb)
+
+## Tries
+
 - 208\. Implement Trie (Prefix Tree) · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/208_implementTrie_PrefixTree.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/208_implementTrie_PrefixTree.ipynb)
 
-## Heap & Priority Queue 
-- 703\. Kth Largest Element In a Stream · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_KthLargestElementinaStream.ipynb)
+## Heap & Priority Queue
 
-## Backtracking 
+- 703\. Kth Largest Element In a Stream · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/703_KthLargestElementinaStream.ipynb)
+
+## Backtracking
+
 - 78\. Subsets · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/78_subsets.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/78_subsets.ipynb)
 
-## Graphs 
+## Graphs
+
 - 200\. Number of Islands · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/200_numberOfIslands.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/200_numberOfIslands.ipynb)
 
-## Advanced Graphs 
+## Advanced Graphs
+
 - 1584\. Min Cost to Connect All Points · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/1584_minCostToConnectAllPoints.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/1584_minCostToConnectAllPoints.ipynb)
 
-## 1-D Dynamic Programming 
-- 70\. Climbing Stairs · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_ClimbingStairs.ipynb)
+## 1-D Dynamic Programming
 
-## 2-D Dynamic Programming 
+- 70\. Climbing Stairs · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/70_ClimbingStairs.ipynb)
+
+## 2-D Dynamic Programming
+
 - 62\. Unique Paths · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/62_uniquePaths.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/62_uniquePaths.ipynb)
 
-## Greedy 
+## Greedy
+
 - 53\. Maximum Subarray · medium 🟠 · 🧑‍🦯7️⃣5️⃣ (not implemented)
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/53_maximumSubarray.ipynb)
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/medium/53_maximumSubarray.ipynb)
 
-## Intervals 
-- 252\. Meeting Rooms · easy 🟢 · 🧑‍🦯7️⃣5️⃣ 
-· [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/252_MeetingRooms.ipynb)
+## Intervals
 
-## Math & Geometry 
-## Bit Manipulation 
+- 252\. Meeting Rooms · easy 🟢 · 🧑‍🦯7️⃣5️⃣
+  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/252_MeetingRooms.ipynb)
+
+## Math & Geometry
+
+## Bit Manipulation
