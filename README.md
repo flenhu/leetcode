@@ -8,7 +8,7 @@
   · [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
   · [<img src="assets/cppLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
 
-- 217\. Contains Duplicate · easy 🟢 · [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+- 217\. Contains Duplicate · easy 🟢 · [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: bottom;">](https://github.com/flenhu/leetcode)
   · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb)
   · [JS](https://github.com/flenhu/leetcode)
   · [☕️](https://github.com/flenhu/leetcode)
