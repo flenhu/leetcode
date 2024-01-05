@@ -1,4 +1,4 @@
-# Trees in Java ☕️
+# Trees in <img src="../../assets/javaLogo.png" style="height: 1em; vertical-align: top;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Invert Binary Tree · easy 🟢 

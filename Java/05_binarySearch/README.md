@@ -1,4 +1,4 @@
-# Binary Search in Java ☕️
+# Binary Search in <img src="../../assets/javaLogo.png" style="height: 1em; vertical-align: top;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Find Minimum In Rotated Sorted Array · medium 🟠

@@ -1,4 +1,4 @@
-# Arrays & Hashing in Java ☕️
+# Arrays & Hashing in <img src="../../assets/javaLogo.png" style="height: 1em; vertical-align: top;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Contains Duplicate · easy 🟢  

@@ -1,5 +1,4 @@
-# Two Pointers in Java ☕️
-
+# Two Pointers in <img src="../../assets/javaLogo.png" style="height: 1em; vertical-align: top;">
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Valid Palindrome · easy 🟢  
 - [ ] 3Sum · medium 🟠

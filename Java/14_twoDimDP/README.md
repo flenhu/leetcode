@@ -1,4 +1,4 @@
-# 2-Dimensional Dynamic Programming in Java ☕️
+# 2-Dimensional Dynamic Programming in <img src="../../assets/javaLogo.png" style="height: 1em; vertical-align: top;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Unique Paths · medium 🟠
