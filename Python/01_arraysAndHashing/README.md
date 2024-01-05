@@ -1,7 +1,7 @@
 # Arrays & Hashing in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 (🧑‍🦯7️⃣5️⃣)
+## Blind 75 <img src="../../assets/Blind75small.png" alt="Python logo" style="height: 1em; vertical-align: top;">
 - [x] [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
 - [x] [Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
 
