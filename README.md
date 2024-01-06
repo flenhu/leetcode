@@ -22,7 +22,7 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
 - [Remove Element](https://leetcode.com/problems/remove-element/)
   · easy 🟢
