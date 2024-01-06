@@ -1,11 +1,14 @@
 # All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
 
-<div align="center">
+### Supported Languages
 
-| Python <img src="assets/pythonLogo.png" style="height: 1em; "> | JavaScript <img src="assets/jsLogo.png" style="height: 1em; "> | Java <img src="assets/javaLogo.png" style="height: 1em; "> | <img src="assets/cppLogo.png" style="height: 1em; vertical-align: sub ;"> | TypeScript <img src="assets/tsLogo.png" style="height: 1em; "> | <img src="assets/goLogo.png" style="height: 1em; vertical-align: sub ;"> | Swift <img src="assets/swiftLogo.png" style="height: 1em; "> |
-| -------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
-
-</div>
+- [Python](https://github.com/flenhu/leetcode/tree/main/Python)
+- [JavaScript](https://github.com/flenhu/leetcode/tree/main/JavaScript)
+- [Java](https://github.com/flenhu/leetcode/tree/main/Python)
+- [C++]()
+- [TypeScript]()
+- [Swift]()
+- [Go]()
 
 ## Arrays & Hashing
 
