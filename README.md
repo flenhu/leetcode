@@ -37,14 +37,14 @@
 
 - Remove Duplicates From Sorted Array 
   · easy🟢
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Sliding Window
 
 - 121\. Best Time to Buy And Sell Stock 
   · easy🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Stack
 
@@ -64,7 +64,7 @@
 - 206\. Reverse Linked List 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Trees
 
@@ -84,7 +84,7 @@
 - 703\. Kth Largest Element In a Stream 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Backtracking
 
