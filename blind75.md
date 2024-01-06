@@ -1,5 +1,4 @@
-# Blind 75 Problems 🧑‍🦯7️⃣5️⃣
-
+# Blind 75 Problems <img src="assets/blind75small.png" style="height: 1em;">
 ## Arrays & Hashing
 - Contains Duplicate · easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
@@ -11,94 +10,94 @@
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
-- [Two Sum]() · easy 🟢
-- [Group Anagrams]() · medium 🟠 
-- [Top K Frequent Elements]() · medium 🟠 
-- [Product of Array Except Self]() · medium 🟠 
+- [Two Sum](https://leetcode.com/problems/two-sum/) · easy 🟢
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) · medium 🟠 
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · medium 🟠 
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · medium 🟠 
 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) · medium 🟠 
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · medium 🟠
 
 ## Two Pointers
-- [Valid Palindrome]() · easy 🟢
-- [3Sum]() · medium 🟠 
-- [Container With Most Water]() · medium 🟠 
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) · easy 🟢
+- [3Sum](https://leetcode.com/problems/3sum/) · medium 🟠 
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) · medium 🟠 
 
 ## Sliding Window
-- [Best Time to Buy And Sell Stock]() · easy 🟢
-- [Longest Substring Without Repeating Characters]() · medium 🟠
-- [Longest Repeating Character Replacement]() · medium 🟠
-- [Minimum Window Substring]() · hard 🔴
+- [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · easy 🟢
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) · medium 🟠
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) · medium 🟠
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) · hard 🔴
 
 ## Stack
 - [Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/04_stack/) · easy 🟢  
 
 ## Binary Search
-- [Find Minimum In Rotated Sorted Array]() · medium 🟠
-- [Search In Rotated Sorted Array]() · medium 🟠
+- [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) · medium 🟠
+- [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) · medium 🟠
 
 ## Linked List
-- [Reverse Linked List]() · easy 🟢 
-- [Merge Two Sorted Lists]() · easy 🟢 
-- [Reorder List]() · medium 🟠
-- [Remove Nth Node From End of List]() · medium 🟠
-- [Linked List Cycle]() · easy 🟢 	
-- [Merge K Sorted Lists]() · hard 🔴
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) · easy 🟢 
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) · easy 🟢 
+- [Reorder List](https://leetcode.com/problems/reorder-list/) · medium 🟠
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) · medium 🟠
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) · easy 🟢 	
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) · hard 🔴
 
 ## Trees
-- [Invert Binary Tree]() · easy 🟢 
-- [Maximum Depth of Binary Tree]() · easy 🟢 
-- [Same Tree]() · easy 🟢 
-- [Subtree of Another Tree]() · easy 🟢 
-- [Lowest Common Ancestor of a Binary Search Tree]() · medium 🟠
-- [Binary Tree Level Order Traversal]() · medium 🟠
-- [Validate Binary Search Tree]() · medium 🟠
-- [Kth Smallest Element In a Bst]() · medium 🟠
-- [Construct Binary Tree From Preorder And Inorder Traversal]()
-- [Binary Tree Maximum Path Sum]() · hard 🔴
-- [Serialize And Deserialize Binary Tree]() · hard 🔴
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) · easy 🟢 
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) · easy 🟢 
+- [Same Tree](https://leetcode.com/problems/same-tree/) · easy 🟢 
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) · easy 🟢 
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) · medium 🟠
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) · medium 🟠
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) · medium 🟠
+- [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) · medium 🟠
+- [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) · medium 🟠
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) · hard 🔴
+- [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) · hard 🔴
 
 ## Tries
-- [Implement Trie Prefix Tree]() · medium 🟠
-- [Design Add And Search Words Data Structure]() · medium 🟠
-- [Word Search II]() · hard 🔴
+- [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) · medium 🟠
+- [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) · medium 🟠
+- [Word Search II](https://leetcode.com/problems/word-search-ii/) · hard 🔴
 
 ## Heap & Priority Queue
-- [Find Median From Data Stream]() · hard 🔴
+- [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) · hard 🔴
 
 ## Backtracking 
-- [Combination Sum]() · medium 🟠
-- [Word Search]() · medium 🟠
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) · medium 🟠
+- [Word Search](https://leetcode.com/problems/word-search/) · medium 🟠
 
 ## Graphs
-- [Number of Islands]() · medium 🟠
-- [Clone Graph]() · medium 🟠
-- [Pacific Atlantic Water Flow]() · medium 🟠
-- [Course Schedule]() · medium 🟠
-- [Number of Connected Components In An Undirected Graph]() · medium 🟠
-- [Graph Valid Tree]() · medium 🟠
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/) · medium 🟠
+- [Clone Graph](https://leetcode.com/problems/clone-graph/) · medium 🟠
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) · medium 🟠
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) · medium 🟠
+- [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) · medium 🟠
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) · medium 🟠
 
 ## Advanced Graphs
-- [Alien Dictionary]() · hard 🔴
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) · hard 🔴
 
 ## 1-D Dynamic Programming
-- [Climbing Stairs]() · easy 🟢 
-- [House Robber]() · medium 🟠
-- [House Robber II]() · medium 🟠
-- [Longest Palindromic Substring]() · medium 🟠
-- [Palindromic Substrings]() · medium 🟠
-- [Decode Ways]() · medium 🟠
-- [Coin Change]() · medium 🟠
-- [Maximum Product Subarray · medium 🟠
-- [Word Break]() · medium 🟠
-- [Longest Increasing Subsequence]() · medium 🟠
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) · easy 🟢 
+- [House Robber](https://leetcode.com/problems/house-robber/) · medium 🟠
+- [House Robber II](https://leetcode.com/problems/house-robber-ii/) · medium 🟠
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) · medium 🟠
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) · medium 🟠
+- [Decode Ways](https://leetcode.com/problems/decode-ways/) · medium 🟠
+- [Coin Change](https://leetcode.com/problems/coin-change/) · medium 🟠
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) · medium 🟠
+- [Word Break](https://leetcode.com/problems/word-break/) · medium 🟠
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) · medium 🟠
 
 ## 2-D Dynamic Programming 
-- [Unique Paths]() · medium 🟠
-- [Longest Common Subsequence]() · medium 🟠
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) · medium 🟠
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) · medium 🟠
 
 ## Greedy
-- [Maximum Subarray]() · medium 🟠
-- [Jump Game]() · medium 🟠
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) · medium 🟠
+- [Jump Game](https://leetcode.com/problems/jump-game/) · medium 🟠
 
 ## Intervals
 - [Insert Interval](https://leetcode.com/problems/insert-interval/) · medium 🟠
