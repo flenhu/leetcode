@@ -5,7 +5,7 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0217_containsDuplicate.ipynb)
   · [<img src="assets/jsLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
   · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
   · [<img src="assets/cppLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
@@ -13,7 +13,7 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0242_validAnagram.ipynb)
 
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
   · easy 🟢
@@ -22,7 +22,6 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/0001_twoSum.ipynb)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
 - [Remove Element](https://leetcode.com/problems/remove-element/)
