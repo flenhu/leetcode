@@ -4,8 +4,8 @@
 
 - [Python](https://github.com/flenhu/leetcode/tree/main/Python)
 - [JavaScript](https://github.com/flenhu/leetcode/tree/main/JavaScript)
-- [Java](https://github.com/flenhu/leetcode/tree/main/Python)
-- [C++]()
+- [Java](https://github.com/flenhu/leetcode/tree/main/Java)
+- [C++](https://github.com/flenhu/leetcode/tree/main/Cpp)
 - [TypeScript]()
 - [Swift]()
 - [Go]()
