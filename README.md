@@ -29,105 +29,73 @@
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0027_removeElement.ipynb)
 
 ## Two Pointers
-- Valid Palindrome 
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   · easy🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/02_twoPointers/0125_validPalindrome.ipynb)
-- Remove Duplicates From Sorted Array 
+
+- [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   · easy🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/02_twoPointers/0026_removeDuplicatesFromSortedArray.ipynb)
 
 ## Sliding Window
-- Best Time to Buy And Sell Stock 
+- [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   · easy🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
 
 ## Stack
-- Valid Parentheses 
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/04_stack/0020_validParentheses.ipynb)
 
 ## Binary Search
 
-- Binary Search 
+- [Binary Search](https://leetcode.com/problems/binary-search/) 
   · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/05_binarySearch/0704_binarySearch.ipynb)
 
 ## Linked List
 
-- 206\. Reverse Linked List 
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/06_linkedList/0206_reverseLinkedList.ipynb)
 
 ## Trees
 
-- 226\. Invert Binary Tree 
-  · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/07_trees/0226_invertBinaryTree.ipynb)
 
 ## Tries
 
-- 208\. Implement Trie (Prefix Tree) 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md) [NOT Implemented]
 
 ## Heap & Priority Queue
 
-- 703\. Kth Largest Element In a Stream 
-  · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em;">]()
+
 
 ## Backtracking
 
-- 78\. Subsets 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  (not implemented)
+
 
 ## Graphs
 
-- 200\. Number of Islands 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  (not implemented)
+
 
 ## Advanced Graphs
 
-- 1584\. Min Cost to Connect All Points 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  (not implemented)
 
 ## 1-D Dynamic Programming
 
-- 70\. Climbing Stairs 
-  · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
 
 ## 2-D Dynamic Programming
 
-- 62\. Unique Paths 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  (not implemented)
 
 ## Greedy
 
-- 53\. Maximum Subarray 
-  · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  (not implemented)
+
 
 ## Intervals
 
-- 252\. Meeting Rooms 
-  · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
 
 ## Math & Geometry
 
