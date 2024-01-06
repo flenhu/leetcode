@@ -1,10 +1,9 @@
 # All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
 
-
 <div align="center">
 
-| Python <img src="assets/pythonLogo.png" style="height: 1em; "> |  JavaScript <img src="assets/jsLogo.png" style="height: 1em; ">  |  Java <img src="assets/javaLogo.png" style="height: 1em; ">  | <img src="assets/cppLogo.png" style="height: 1.25em; vertical-align: sub ;">  | TypeScript <img src="assets/tsLogo.png" style="height: 1em; ">  | <img src="assets/goLogo.png" style="height: 1em; vertical-align: sub ;"> | Swift  <img src="assets/swiftLogo.png" style="height: 1em; "> |
-|----------|----------|----------|----------|----------|----------|----------|
+| Python <img src="assets/pythonLogo.png" style="height: 1em; "> | JavaScript <img src="assets/jsLogo.png" style="height: 1em; "> | Java <img src="assets/javaLogo.png" style="height: 1em; "> | <img src="assets/cppLogo.png" style="height: 1em; vertical-align: sub ;"> | TypeScript <img src="assets/tsLogo.png" style="height: 1em; "> | <img src="assets/goLogo.png" style="height: 1em; vertical-align: sub ;"> | Swift <img src="assets/swiftLogo.png" style="height: 1em; "> |
+| -------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
 
 </div>
 
@@ -37,6 +36,7 @@
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0027_removeElement.ipynb)
 
 ## Two Pointers
+
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   · easy🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
@@ -47,27 +47,29 @@
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/02_twoPointers/0026_removeDuplicatesFromSortedArray.ipynb)
 
 ## Sliding Window
+
 - [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-  · easy🟢 
+  · easy🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
 
 ## Stack
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
-  · easy 🟢 
+
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/04_stack/0020_validParentheses.ipynb)
 
 ## Binary Search
 
-- [Binary Search](https://leetcode.com/problems/binary-search/) 
+- [Binary Search](https://leetcode.com/problems/binary-search/)
   · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/05_binarySearch/0704_binarySearch.ipynb)
 
 ## Linked List
 
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 
-  · easy 🟢 
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/06_linkedList/0206_reverseLinkedList.ipynb)
 
