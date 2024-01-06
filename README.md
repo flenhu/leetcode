@@ -1,5 +1,13 @@
 # All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
 
+
+<div align="center">
+
+| Python <img src="assets/pythonLogo.png" style="height: 1em; "> |  JavaScript <img src="assets/jsLogo.png" style="height: 1em; ">  |  Java <img src="assets/javaLogo.png" style="height: 1em; ">  | <img src="assets/cppLogo.png" style="height: 1.25em; vertical-align: sub ;">  | TypeScript <img src="assets/tsLogo.png" style="height: 1em; ">  | <img src="assets/goLogo.png" style="height: 1em; vertical-align: sub ;"> | Swift  <img src="assets/swiftLogo.png" style="height: 1em; "> |
+|----------|----------|----------|----------|----------|----------|----------|
+
+</div>
+
 ## Arrays & Hashing
 
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
