@@ -7,7 +7,8 @@
   · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
   · [<img src="assets/cppLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
-- Valid Anagram · easy 🟢
+- Valid Anagram 
+  · easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
