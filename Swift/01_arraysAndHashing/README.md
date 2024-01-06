@@ -1,4 +1,4 @@
-# Arrays & Hashing in C++
+# Arrays & Hashing in Swift <img src="../../assets/swiftLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Contains Duplicate · easy 🟢  

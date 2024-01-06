@@ -1,4 +1,4 @@
-# Binary Search in C++
+# Binary Search in Swift <img src="../../assets/swiftLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Find Minimum In Rotated Sorted Array · medium 🟠

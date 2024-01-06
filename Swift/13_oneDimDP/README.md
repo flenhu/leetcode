@@ -1,4 +1,4 @@
-# 1-Dimensional Dynamic Programming in C++
+# 1-Dimensional Dynamic Programming in Swift <img src="../../assets/swiftLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Climbing Stairs · easy 🟢 
