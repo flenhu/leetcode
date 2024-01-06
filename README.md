@@ -21,7 +21,7 @@
 
 - [Two Sum](https://leetcode.com/problems/two-sum/)
   · easy 🟢
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
 - [Remove Element](https://leetcode.com/problems/remove-element/)
@@ -31,7 +31,7 @@
 ## Two Pointers
 - Valid Palindrome 
   · easy🟢
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
 - Remove Duplicates From Sorted Array 
@@ -41,13 +41,13 @@
 ## Sliding Window
 - Best Time to Buy And Sell Stock 
   · easy🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Stack
 - Valid Parentheses 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Binary Search
