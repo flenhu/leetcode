@@ -4,7 +4,7 @@
 
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   · easy 🟢
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0217_containsDuplicate.ipynb)
   · [<img src="assets/jsLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
   · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
@@ -60,75 +60,75 @@
 
 - 206\. Reverse Linked List 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Trees
 
 - 226\. Invert Binary Tree 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Tries
 
 - 208\. Implement Trie (Prefix Tree) 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md) [NOT Implemented]
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md) [NOT Implemented]
 
 ## Heap & Priority Queue
 
 - 703\. Kth Largest Element In a Stream 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Backtracking
 
 - 78\. Subsets 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   (not implemented)
 
 ## Graphs
 
 - 200\. Number of Islands 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   (not implemented)
 
 ## Advanced Graphs
 
 - 1584\. Min Cost to Connect All Points 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   (not implemented)
 
 ## 1-D Dynamic Programming
 
 - 70\. Climbing Stairs 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
 
 ## 2-D Dynamic Programming
 
 - 62\. Unique Paths 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   (not implemented)
 
 ## Greedy
 
 - 53\. Maximum Subarray 
   · medium 🟠 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   (not implemented)
 
 ## Intervals
 
 - 252\. Meeting Rooms 
   · easy 🟢 
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
+  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
 
 ## Math & Geometry
 
