@@ -19,17 +19,16 @@
   · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
-- Two Sum 
+- [Two Sum](https://leetcode.com/problems/two-sum/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
-- Remove Element 
+- [Remove Element](https://leetcode.com/problems/remove-element/)
   · easy 🟢
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
 ## Two Pointers
-
 - Valid Palindrome 
   · easy🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
@@ -40,24 +39,22 @@
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Sliding Window
-
-- 121\. Best Time to Buy And Sell Stock 
+- Best Time to Buy And Sell Stock 
   · easy🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Stack
-
-- 20\. Valid Parentheses 
+- Valid Parentheses 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Binary Search
 
-- 704\. Binary Search 
+- Binary Search 
   · easy 🟢
-  · [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/704_BinarySearch.ipynb)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Linked List
 

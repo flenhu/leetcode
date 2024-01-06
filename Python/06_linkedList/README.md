@@ -2,12 +2,12 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [x] 206. Reverse Linked List · easy 🟢 
-- [ ] 21. Merge Two Sorted Lists · easy 🟢 
-- [ ] 143. Reorder List · medium 🟠
-- [ ] 19. Remove Nth Node From End of List · medium 🟠
-- [ ] 141. Linked List Cycle · easy 🟢 	
-- [ ] 23. Merge K Sorted Lists · hard 🔴
+- [x] Reverse Linked List · easy 🟢 
+- [ ] Merge Two Sorted Lists · easy 🟢 
+- [ ] Reorder List · medium 🟠
+- [ ] Remove Nth Node From End of List · medium 🟠
+- [ ] Linked List Cycle · easy 🟢 	
+- [ ] Merge K Sorted Lists · hard 🔴
 
 ## NC 150
 - [ ] 138. Copy List With Random Pointer · medium 🟠	
