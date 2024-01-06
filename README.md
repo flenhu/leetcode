@@ -1,4 +1,4 @@
-# All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: sub;"> Problems
+# All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
 
 ## Arrays & Hashing
 
