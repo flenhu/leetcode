@@ -1,4 +1,4 @@
-# Trees in C++
+# Trees in <img src="../../assets/goLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Invert Binary Tree · easy 🟢 

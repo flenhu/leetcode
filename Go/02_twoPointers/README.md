@@ -1,4 +1,4 @@
-# Two Pointers in C++ ☕️
+# Two Pointers in <img src="../../assets/goLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Valid Palindrome · easy 🟢  

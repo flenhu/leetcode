@@ -1,4 +1,4 @@
-# Bit Manipulation in C++
+# Bit Manipulation in <img src="../../assets/tsLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Number of 1 Bits · easy 🟢

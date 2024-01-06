@@ -1,4 +1,4 @@
-# Greedy in C++
+# Greedy in <img src="../../assets/goLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Maximum Subarray · medium 🟠

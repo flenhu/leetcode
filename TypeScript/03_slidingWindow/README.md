@@ -1,4 +1,4 @@
-# Sliding Windows in C++
+# Sliding Windows in <img src="../../assets/tsLogo.png" style="height: 1em; vertical-align: top">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [ ] Best Time to Buy And Sell Stock · easy 🟢
