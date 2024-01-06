@@ -13,7 +13,7 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   · easy 🟢
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: top;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
   · easy 🟢
@@ -51,7 +51,7 @@
 - 20\. Valid Parentheses 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Binary Search
 
@@ -71,7 +71,7 @@
 - 226\. Invert Binary Tree 
   · easy 🟢 
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](https://github.com/flenhu/leetcode/blob/main/blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: sub;">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/pythonLogo.png" style="height: 1em;">](https://github.com/flenhu/leetcode)
 
 ## Tries
 
