@@ -1,20 +1,31 @@
 # Blind 75 Problems <img src="assets/blind75small.png" style="height: 1em;">
 ## Arrays & Hashing
-- Contains Duplicate · easy 🟢
-| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/217_containsDuplicate.ipynb) 
-| [JS](https://github.com/flenhu/leetcode) 
-| [☕️](https://github.com/flenhu/leetcode) 
-| [C](https://github.com/flenhu/leetcode)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+  · easy 🟢
+  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/jsLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  · [<img src="assets/cppLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
 
 - Valid Anagram · easy 🟢
 | [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
 | [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
 
-- [Two Sum](https://leetcode.com/problems/two-sum/) · easy 🟢
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) · medium 🟠 
-- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · medium 🟠 
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · medium 🟠 
-- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) · medium 🟠 
+- [Two Sum](https://leetcode.com/problems/two-sum/) 
+  · easy 🟢
+
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
+  · medium 🟠 
+
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
+  · medium 🟠 
+
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
+  · medium 🟠 
+
+- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
+  · medium 🟠 
+
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · medium 🟠
 
 ## Two Pointers
