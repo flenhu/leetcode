@@ -248,3 +248,7 @@
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
   · medium 🟠
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+`#0969DA`
+`#RRGGBB`
