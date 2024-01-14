@@ -1,6 +1,6 @@
 # Python <img src="../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;"> Leetcode problems
 
-## Arrays & Hashing 
+## [Arrays & Hashing](01_arraysAndHashing/README.md)
 - [Contains Duplicate](01_arraysAndHashing/0217_containsDuplicate.ipynb)
   · easy 🟢
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
