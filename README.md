@@ -41,9 +41,9 @@
 ## Two Pointers
 
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-  · easy🟢
-  · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/02_twoPointers/0125_validPalindrome.ipynb)
+  • easy🟢
+  • [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+  • [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/02_twoPointers/0125_validPalindrome.ipynb)
 
 - [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   · easy🟢
