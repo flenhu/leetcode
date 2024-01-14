@@ -2,7 +2,7 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [x] [125. Valid Palindrome](https://github.com/flenhu/leetcode/blob/main/Python/02_twoPointers/125_validPalindrome.ipynb) · easy 🟢  
+- [x] [125. Valid Palindrome](0125_validPalindrome.ipynb) · easy 🟢  
 - [ ] 15. 3Sum · medium 🟠
 - [ ] 11. Container With Most Water · medium 🟠
 
