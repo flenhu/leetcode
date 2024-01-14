@@ -45,7 +45,9 @@
 - [Reverse Linked List](06_linkedList/0206_reverseLinkedList.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
-
+- [Merge Two Sorted Lists](06_linkedList/0021_mergeTwoSortedLists.ipynb)
+  · easy 🟢 
+  · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 ## [Trees](07_trees) 
 
 
