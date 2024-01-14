@@ -1,7 +1,7 @@
 # Arrays & Hashing in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 <img src="../../assets/Blind75small.png" alt="Python logo" style="height: 1em; vertical-align: top;">
+## Blind 75 <img src="../../assets/blind75small.png" alt="blind logo" style="height: 1em; vertical-align: top;">
 - [x] [Contains Duplicate](0217_containsDuplicate.ipynb) · easy 🟢  
 - [x] [Valid Anagram](0242_validAnagram.ipynb) · easy 🟢  
 - [x] [Two Sum](0001_twoSum.ipynb) · easy 🟢  
