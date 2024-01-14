@@ -81,7 +81,6 @@
   · [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   · [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/06_linkedList/0021_mergeTwoSortedLists.ipynb)
 
-## [Trees](07_trees) 
 
 ## Trees
 
