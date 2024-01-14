@@ -1,7 +1,7 @@
 # Trees in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] 226. Invert Binary Tree · easy 🟢 
+- [x] 226. Invert Binary Tree · easy 🟢 
 - [ ] 104. Maximum Depth of Binary Tree · easy 🟢 
 - [ ] 100. Same Tree · easy 🟢 
 - [ ] 572. Subtree of Another Tree · easy 🟢 
