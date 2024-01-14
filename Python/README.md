@@ -19,7 +19,7 @@
 - [Remove Element](01_arraysAndHashing/0027_removeElement.ipynb)
   · easy 🟢
 
-## Two Pointers
+## [Two Pointers](02_twoPointers/README.md)
 - [Valid Palindrome](02_twoPointers/0125_validPalindrome.ipynb)
   · easy 🟢
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
@@ -27,26 +27,26 @@
 - [Remove Duplicates From Sorted Array](02_twoPointers/0026_removeDuplicatesFromSortedArray.ipynb)
   · easy🟢
 
-## Sliding Window 
+## [Sliding Window](03_slidingWindow/README.md)
 - [Best Time to Buy And Sell Stock](03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
   · easy🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
-## Stack 
+## [Stack](04_stack)
 - [Valid Parentheses](04_stack/0020_validParentheses.ipynb)
   · easy 🟢
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
-## Binary Search
+## [Binary Search](05_binarySearch)
 - [Binary Search](05_binarySearch/0704_binarySearch.ipynb)
   · easy 🟢
 
-## Linked List 
+## [Linked List](06_linkedList)
 - [Reverse Linked List](06_linkedList/0206_reverseLinkedList.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
-## Trees 
+## [Trees](07_trees) 
 
 
 ## Tries 
