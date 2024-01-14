@@ -3,7 +3,7 @@
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
 - [x] Reverse Linked List · easy 🟢 
-- [ ] Merge Two Sorted Lists · easy 🟢 
+- [x] Merge Two Sorted Lists · easy 🟢 
 - [ ] Reorder List · medium 🟠
 - [ ] Remove Nth Node From End of List · medium 🟠
 - [ ] Linked List Cycle · easy 🟢 	
