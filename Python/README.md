@@ -28,21 +28,21 @@
   · easy🟢
 
 ## Sliding Window 
-- [121. Best Time to Buy And Sell Stock](03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
+- [Best Time to Buy And Sell Stock](03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
   · easy🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
 ## Stack 
-- [20. Valid Parentheses](04_stack/0020_validParentheses.ipynb)
+- [Valid Parentheses](04_stack/0020_validParentheses.ipynb)
   · easy 🟢
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
 ## Binary Search
-- [704. Binary Search](05_binarySearch/0704_binarySearch.ipynb)
+- [Binary Search](05_binarySearch/0704_binarySearch.ipynb)
   · easy 🟢
 
 ## Linked List 
-- [206. Reverse Linked List](06_linkedList/0206_reverseLinkedList.ipynb)
+- [Reverse Linked List](06_linkedList/0206_reverseLinkedList.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
