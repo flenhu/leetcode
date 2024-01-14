@@ -6,7 +6,7 @@
 - [ ] 33. Search In Rotated Sorted Array · medium 🟠
 
 ## NC 150
-- [x] [704. Binary Search](https://github.com/flenhu/leetcode/blob/main/Python/05_binarySearch/704_binarySearch.ipynb) · easy 🟢 
+- [x] [704. Binary Search](0704_binarySearch.ipynb) · easy 🟢 
 - [ ] 74. Search a 2D Matrix · medium 🟠
 - [ ] 875. Koko Eating Banana · medium 🟠
 - [ ] 981. Time Based Key Value Store · medium 🟠

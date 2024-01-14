@@ -18,7 +18,7 @@
 - [ ] 344. Reverse String · easy 🟢  
 - [ ] 88. Merge Sorted Array · easy 🟢  
 - [ ] 283. Move Zeroes  · easy 🟢  
-- [ ] 26. Remove Duplicates from Sorted Array · easy 🟢  
+- [x] [26. Remove Duplicates from Sorted Array](0026_removeDuplicatesFromSortedArray.ipynb) · easy 🟢  
 - [ ] 80. Remove Duplicates from Sorted Array II · medium 🟠
 - [ ] 18. 4Sum · medium 🟠
 - [ ] 1498. Number of Subsequences That Satisfy The Given Sum Condition · medium 🟠

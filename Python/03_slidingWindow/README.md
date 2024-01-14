@@ -2,8 +2,7 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] [121. Best Time to Buy And Sell Stock](https://github.com/flenhu/leetcode/blob/main/Python/03_slidingWindow/121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
-
+- [x] [121. Best Time to Buy And Sell Stock](0121_bestTimetoBuyAndSellStock.ipynb) · easy 🟢
 - [ ] 3. Longest Substring Without Repeating Characters · medium 🟠
 - [ ] 424. Longest Repeating Character Replacement · medium 🟠
 - [ ] 76. Minimum Window Substring · hard 🔴

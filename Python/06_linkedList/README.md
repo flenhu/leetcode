@@ -2,8 +2,8 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [x] Reverse Linked List · easy 🟢 
-- [x] Merge Two Sorted Lists · easy 🟢 
+- [x] [Reverse Linked List](0206_reverseLinkedList.ipynb) · easy 🟢 
+- [x] [Merge Two Sorted Lists](0021_mergeTwoSortedLists.ipynb) · easy 🟢 
 - [ ] Reorder List · medium 🟠
 - [ ] Remove Nth Node From End of List · medium 🟠
 - [ ] Linked List Cycle · easy 🟢 	

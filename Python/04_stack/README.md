@@ -2,7 +2,7 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [x] [20. Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/04_stack/) · easy 🟢  
+- [x] [20. Valid Parentheses](0020_validParentheses.ipynb) · easy 🟢  
 
 ## NC 150
 - [ ] 155. Min Stack · medium 🟠
