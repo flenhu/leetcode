@@ -105,21 +105,3 @@
 ## Math & Geometry
 
 ## Bit Manipulation
-
-
-***
-**Example 1:**
-![Example 1](https://assets.leetcode.com/uploads/2021/03/14/invert1-tree.jpg)
-> **Input:** `root = [4,2,7,1,3,6,9]`  
-> **Output:** `[4,7,2,9,6,3,1]`  
-> **Explanation:** The left and right children of all nodes are swapped. For example, the left child of the root (2) and the right child (7) are swapped.
-
-**Example 2:**
-![Example 2](https://assets.leetcode.com/uploads/2021/03/14/invert2-tree.jpg)
-> **Input:** `root = [2,1,3]`  
-> **Output:** `[2,3,1]`
-> **Explanation:** The left child (1) and the right child (3) are swapped.
-
-**Example 3:**
-> **Input**: `root = []`
-> **Output**: `[]`
