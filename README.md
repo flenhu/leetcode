@@ -35,8 +35,8 @@
   · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
 - [Remove Element](https://leetcode.com/problems/remove-element/)
-  · easy 🟢
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0027_removeElement.ipynb)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0027_removeElement.ipynb)
 
 ## Two Pointers
 
