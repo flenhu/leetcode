@@ -32,44 +32,42 @@
   · easy🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
-## [Stack](04_stack)
+## [Stack](04_stack/README.md)
 - [Valid Parentheses](04_stack/0020_validParentheses.ipynb)
   · easy 🟢
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
-## [Binary Search](05_binarySearch)
+## [Binary Search](05_binarySearch/README.md)
 - [Binary Search](05_binarySearch/0704_binarySearch.ipynb)
   · easy 🟢
 
-## [Linked List](06_linkedList)
+## [Linked List](06_linkedList/README.md)
 - [Reverse Linked List](06_linkedList/0206_reverseLinkedList.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 - [Merge Two Sorted Lists](06_linkedList/0021_mergeTwoSortedLists.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
-## [Trees](07_trees) 
+## [Trees](07_trees/README.md) 
 
+## [Tries](08_tries/README.md)
 
-## Tries 
+## [Heap & Priority Queue](09_heapAndPriorityQueue/README.md)
 
-## Heap & Priority Queue 
+## [Backtracking](10_backtracking/README.md) 
 
-## Backtracking 
+## [Graphs](11_graphs/README.md)
 
-## Graphs 
-## Advanced Graphs 
+## [Advanced Graphs](12_advancedGraphs/README.md) 
 
-## 1-D Dynamic Programming
+## [1-D Dynamic Programming](13_oneDimDP/README.md)
 
+## [2-D Dynamic Programming](14_twoDimDP/README.md)
 
-## 2-D Dynamic Programming 
+## [Greedy](15_greedy/README.md)
 
-## Greedy 
+## [Intervals](16_intervals/README.md)
 
-## Intervals
+## [Math & Geometry](17_mathAndGeometry/README.md) 
 
-
-## Math & Geometry 
-
-## Bit Manipulation 
+## [Bit Manipulation](18_bitManipulation/README.md)
