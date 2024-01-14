@@ -2,11 +2,9 @@
 
 
 ## Blind 75 <img src="../../assets/Blind75small.png" alt="Python logo" style="height: 1em; vertical-align: top;">
-- [x] [217. Contains Duplicate](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
-- [x] [Valid Anagram](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
-
-- [x] [Two Sum](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/) · easy 🟢  
-
+- [x] [Contains Duplicate](0217_containsDuplicate.ipynb) · easy 🟢  
+- [x] [Valid Anagram](0242_validAnagram.ipynb) · easy 🟢  
+- [x] [Two Sum](0001_twoSum.ipynb) · easy 🟢  
 - [ ] 49. Group Anagrams · medium 🟠 
 - [ ] 347. Top K Frequent Elements · medium 🟠 
 - [ ] 238. Product of Array Except Self · medium 🟠 
@@ -17,13 +15,13 @@
 - [ ] 36. Valid Sodoku · medium 🟠
 
 ## NC All
-- [x] [1929. Concatenation of Array](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/1929_concatenationofArray.ipynb) · easy 🟢  
+- [x] [1929. Concatenation of Array](1929_concatenationofArray.ipynb) · easy 🟢  
 - [ ] 1299. Replace Elements With Greatest Element on Right Side · easy 🟢  
 - [ ] 392. Is Subsequence · easy 🟢  
 - [ ] 58. Length of Last Word · easy 🟢  
 - [ ] 14. Longest Common Prefix · easy 🟢  
 - [ ] 118. Pascals Triangle  · easy 🟢  
-- [ ] [27. Remove Element](https://github.com/flenhu/leetcode/blob/main/Python/01_arraysAndHashing/27_removeElement.ipynb)  · easy 🟢  
+- [x] [27. Remove Element](0027_removeElement.ipynb)  · easy 🟢  
 - [ ] 929. Unique Email Adresses · easy 🟢  
 - [ ] 205. Isomorphic Strings · easy 🟢  
 - [ ] 605. Can Place Flowers · easy 🟢  
