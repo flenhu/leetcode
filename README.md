@@ -105,7 +105,7 @@
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  | [<img src="assets/pythonLogo.png" style="height: 1em;">]()
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/13_oneDimDP/0070_climbingStairs.ipynb)
 
 ## 2-D Dynamic Programming
 
@@ -120,3 +120,4 @@
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em;">]()
+  
