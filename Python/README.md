@@ -67,6 +67,9 @@
 ## [Advanced Graphs](12_advancedGraphs/README.md) 
 
 ## [1-D Dynamic Programming](13_oneDimDP/README.md)
+- [Climbing Stairs](13_oneDimDP/0070_climbingStairs.ipynb)
+  | easy 🟢 
+  | [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
 ## [2-D Dynamic Programming](14_twoDimDP/README.md)
 
