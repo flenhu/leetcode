@@ -83,10 +83,17 @@
 
 
 ## Trees
-
+- [Invert Binary Tree]()
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/07_trees/0226_invertBinaryTree.ipynb)
 ## Tries
 
 ## Heap & Priority Queue
+- [Kth Largest Element in a Stream]()
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/09_heapAndPriorityQueue/0703_kthLargestElementInAStream.ipynb)
 
 ## Backtracking
 

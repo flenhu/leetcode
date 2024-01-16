@@ -48,11 +48,17 @@
 - [Merge Two Sorted Lists](06_linkedList/0021_mergeTwoSortedLists.ipynb)
   · easy 🟢 
   · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
+
 ## [Trees](07_trees/README.md) 
+- [Invert Binary Tree](07_trees/0226_invertBinaryTree.ipynb)
+  · easy 🟢 
+  · [<img src="../assets/blind75Logo.png" style="height: 1em;">](../blind75.md)
 
 ## [Tries](08_tries/README.md)
 
 ## [Heap & Priority Queue](09_heapAndPriorityQueue/README.md)
+- [Kth Largest Element in a Stream](09_heapAndPriorityQueue/0703_kthLargestElementInAStream.ipynb)
+  · easy 🟢 
 
 ## [Backtracking](10_backtracking/README.md) 
 

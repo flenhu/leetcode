@@ -5,7 +5,7 @@
 - [ ] 295. Find Median From Data Stream · hard 🔴
 
 ## NC 150
-- [ ] 703. Kth Largest Element In a Stream · easy 🟢 
+- [x] [Kth Largest Element In a Stream](0703_kthLargestElementInAStream.ipynb) · easy 🟢 
 - [ ] 1046. Last Stone Weight · easy 🟢 
 - [ ] 973. K Closest Points to Origin · medium 🟠
 - [ ] 215. Kth Largest Element In An Array · medium 🟠
