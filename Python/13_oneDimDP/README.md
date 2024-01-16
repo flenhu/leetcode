@@ -2,7 +2,7 @@
 
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] 70. Climbing Stairs · easy 🟢 
+- [x] 70. Climbing Stairs · easy 🟢 
 - [ ] 198. House Robber · medium 🟠
 - [ ] 213. House Robber II · medium 🟠
 - [ ] 5. Longest Palindromic Substring · medium 🟠
