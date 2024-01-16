@@ -83,14 +83,14 @@
 
 
 ## Trees
-- [Invert Binary Tree]()
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/07_trees/0226_invertBinaryTree.ipynb)
 ## Tries
 
 ## Heap & Priority Queue
-- [Kth Largest Element in a Stream]()
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/09_heapAndPriorityQueue/0703_kthLargestElementInAStream.ipynb)
@@ -102,6 +102,10 @@
 ## Advanced Graphs
 
 ## 1-D Dynamic Programming
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">]()
 
 ## 2-D Dynamic Programming
 
@@ -112,3 +116,7 @@
 ## Math & Geometry
 
 ## Bit Manipulation
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">]()
