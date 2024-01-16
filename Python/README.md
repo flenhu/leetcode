@@ -83,3 +83,4 @@
 - [Number of 1 Bits](18_bitManipulation/0191_numberOf1Bits.ipynb)
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
+as
