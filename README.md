@@ -1,4 +1,4 @@
-# All <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
+# All Leetcode <img src="assets/lcLogo.png" style="height: 1em; vertical-align: bottom;"> Problems
 
 ### Supported Languages
 
@@ -119,5 +119,5 @@
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;">](blind75.md)
-  | [<img src="assets/pythonLogo.png" style="height: 1em;">]()
+  | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/18_bitManipulation/0191_numberOf1Bits.ipynb)
   
