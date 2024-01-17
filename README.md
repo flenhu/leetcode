@@ -2,13 +2,13 @@
 
 ### Supported Languages
 
-- [Python](https://github.com/flenhu/leetcode/tree/main/Python)
-- [JavaScript](https://github.com/flenhu/leetcode/tree/main/JavaScript)
-- [Java](https://github.com/flenhu/leetcode/tree/main/Java)
-- [C++](https://github.com/flenhu/leetcode/tree/main/Cpp)
-- [TypeScript]()
-- [Swift]()
-- [Go]()
+- [Python <img src="assets/pythonLogo.png" style="height: 1em; vertical-align: baseline">](https://github.com/flenhu/leetcode/tree/main/Python)
+- [JavaScript <img src="assets/jsLogo.png" style="height: 1em; vertical-align: baseline">](https://github.com/flenhu/leetcode/tree/main/JavaScript)
+- [Java <img src="assets/javaLogo.png" style="height: 1em; vertical-align: baseline">](https://github.com/flenhu/leetcode/tree/main/Java)
+- [<img src="assets/cppLogo.png" style="height: 1.2em; vertical-align: sub">](https://github.com/flenhu/leetcode/tree/main/Cpp)
+- [TypeScript <img src="assets/tsLogo.png" style="height: 1em; vertical-align: baseline">](https://github.com/flenhu/leetcode/tree/main/TypeScript)
+- [Swift<img src="assets/swiftLogo.png" style="height: 1em; vertical-align: baseline">](https://github.com/flenhu/leetcode/tree/main/Swift)
+- [<img src="assets/goLogo.png" style="height: 0.8em; vertical-align: bseline">](https://github.com/flenhu/leetcode/tree/main/Go)
 
 ## Arrays & Hashing
 
