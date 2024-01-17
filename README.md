@@ -1,4 +1,4 @@
-# All Leetcode <img src="assets/lcLogo.png" style="height: 1.1em; vertical-align: sub;"> Problems
+# All Problems
 
 ### Supported Languages
 
