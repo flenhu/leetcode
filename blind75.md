@@ -67,9 +67,11 @@
 ## Linked List
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 
   | easy 🟢 
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/06_linkedList/0206_reverseLinkedList.ipynb)
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
-  | easy 🟢 
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/06_linkedList/0021_mergeTwoSortedLists.ipynb) 
 
 - [Reorder List](https://leetcode.com/problems/reorder-list/) 
   | medium 🟠
@@ -86,12 +88,15 @@
 ## Trees
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
   | easy 🟢 
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/07_trees/0226_invertBinaryTree.ipynb)
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
   | easy 🟢 
+  <!-- | [<img src="assets/pythonLogo.png" style="height: 1em; ">]() -->
 
 - [Same Tree](https://leetcode.com/problems/same-tree/) 
   | easy 🟢 
+  <!-- | [<img src="assets/pythonLogo.png" style="height: 1em; ">]() -->
 
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
   | easy 🟢 
@@ -164,6 +169,7 @@
 ## 1-D Dynamic Programming
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
   | easy 🟢 
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/13_oneDimDP/0070_climbingStairs.ipynb)
 
 - [House Robber](https://leetcode.com/problems/house-robber/) 
   | medium 🟠
@@ -218,6 +224,9 @@
 
 - [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 
   | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/16_intervals/0252_meetingRooms.ipynb)
+  
+  Python/16_intervals/0252_meetingRooms.ipynb
 
 - [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
   | medium 🟠
@@ -235,15 +244,19 @@
 ## Bit Manipulation
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
   | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/18_bitManipulation/0191_numberOf1Bits.ipynb)
 
 - [Counting Bits](https://leetcode.com/problems/counting-bits/) 
   | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/18_bitManipulation/0338_countingBits.ipynb)
 
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
   | easy 🟢
+  <!-- | [<img src="assets/pythonLogo.png" style="height: 1em; ">]() -->
 
 - [Missing Number](https://leetcode.com/problems/missing-number/) 
   | easy 🟢
+  <!-- | [<img src="assets/pythonLogo.png" style="height: 1em; ">]() -->
 
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
   | medium 🟠
