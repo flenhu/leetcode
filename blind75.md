@@ -1,254 +1,249 @@
 # Blind 75 Problems <img src="assets/blind75small.png" style="height: 1em;">
 ## Arrays & Hashing
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-  · easy 🟢
-  · [<img src="assets/pythonLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [<img src="assets/jsLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [<img src="assets/javaLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
-  · [<img src="assets/cppLogo.png" style="height: 1em; ">](https://github.com/flenhu/leetcode)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0217_containsDuplicate.ipynb)
 
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-  · easy 🟢
-| [🐍](https://github.com/flenhu/leetcode/blob/main/Python/easy/242_validAnagram.ipynb) 
-| [☕️](https://github.com/flenhu/leetcode/blob/main/Java/easy/242_validAnagram_java.ipynb)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0242_validAnagram.ipynb)
 
 - [Two Sum](https://leetcode.com/problems/two-sum/) 
-  · easy 🟢
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
-  · medium 🟠 
+  | medium 🟠 
 
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
-  · medium 🟠 
+  | medium 🟠 
 
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
-  · medium 🟠 
+  | medium 🟠 
 
 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 
-  · medium 🟠 
+  | medium 🟠 
 
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Two Pointers
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
-  · easy 🟢
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/02_twoPointers/0125_validPalindrome.ipynb)
 
 - [3Sum](https://leetcode.com/problems/3sum/) 
-  · medium 🟠 
+  | medium 🟠 
 
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 
-  · medium 🟠 
+  | medium 🟠 
 
 ## Sliding Window
 - [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
-  · easy 🟢
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/03_slidingWindow/0121_bestTimetoBuyAndSellStock.ipynb)
 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
-  · medium 🟠
+  | medium 🟠
   
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) 
-  · hard 🔴
+  | hard 🔴
 
 ## Stack
 - [Valid Parentheses](https://github.com/flenhu/leetcode/blob/main/Python/04_stack/) 
-  · easy 🟢  
+  | easy 🟢 
+  | [<img src="assets/pythonLogo.png" style="height: 1em; ">](Python/04_stack/0020_validParentheses.ipynb)
 
 ## Binary Search
 - [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Linked List
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Reorder List](https://leetcode.com/problems/reorder-list/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 
-  · hard 🔴
+  | hard 🔴
 
 ## Trees
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Same Tree](https://leetcode.com/problems/same-tree/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) 
-  · hard 🔴
+  | hard 🔴
 
 - [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) 
-  · hard 🔴
+  | hard 🔴
 
 ## Tries
 - [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Word Search II](https://leetcode.com/problems/word-search-ii/) 
-  · hard 🔴
+  | hard 🔴
 
 ## Heap & Priority Queue
 - [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 
-  · hard 🔴
+  | hard 🔴
 
 ## Backtracking 
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Word Search](https://leetcode.com/problems/word-search/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Graphs
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Clone Graph](https://leetcode.com/problems/clone-graph/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Advanced Graphs
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) 
-  · hard 🔴
+  | hard 🔴
 
 ## 1-D Dynamic Programming
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
-  · easy 🟢 
+  | easy 🟢 
 
 - [House Robber](https://leetcode.com/problems/house-robber/) 
-  · medium 🟠
+  | medium 🟠
 
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Decode Ways](https://leetcode.com/problems/decode-ways/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Coin Change](https://leetcode.com/problems/coin-change/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Word Break](https://leetcode.com/problems/word-break/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 
-  · medium 🟠
+  | medium 🟠
 
 ## 2-D Dynamic Programming 
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Greedy
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Jump Game](https://leetcode.com/problems/jump-game/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Intervals
 - [Insert Interval](https://leetcode.com/problems/insert-interval/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 
-  · easy 🟢
+  | easy 🟢
 
 - [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Math & Geometry
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) 
-  · medium 🟠
+  | medium 🟠
 
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) 
-  · medium 🟠
+  | medium 🟠
 
 ## Bit Manipulation
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) 
-  · easy 🟢
+  | easy 🟢
 
 - [Counting Bits](https://leetcode.com/problems/counting-bits/) 
-  · easy 🟢
+  | easy 🟢
 
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) 
-  · easy 🟢
+  | easy 🟢
 
 - [Missing Number](https://leetcode.com/problems/missing-number/) 
-  · easy 🟢
+  | easy 🟢
 
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) 
-  · medium 🟠
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
-`#0969DA`
-`#RRGGBB`
+  | medium 🟠
