@@ -1,7 +1,7 @@
 # Stack in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 (🧑‍🦯7️⃣5️⃣)
+## Blind 75 <img src="../../assets/blind75small.png" alt="blind logo" style="height: 1em; vertical-align: top;">
 - [x] [20. Valid Parentheses](0020_validParentheses.ipynb) | easy 🟢  
 
 ## NC 150

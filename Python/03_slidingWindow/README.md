@@ -1,7 +1,7 @@
 # Sliding Windows in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 (🧑‍🦯7️⃣5️⃣)
+## Blind 75 <img src="../../assets/blind75small.png" alt="blind logo" style="height: 1em; vertical-align: top;">
 - [x] [121. Best Time to Buy And Sell Stock](0121_bestTimetoBuyAndSellStock.ipynb) | easy 🟢
 - [ ] 3. Longest Substring Without Repeating Characters | medium 🟠
 - [ ] 424. Longest Repeating Character Replacement | medium 🟠

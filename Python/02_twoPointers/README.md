@@ -1,7 +1,7 @@
 # Two Pointers in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 (🧑‍🦯7️⃣5️⃣)
+## Blind 75 <img src="../../assets/blind75small.png" alt="blind logo" style="height: 1em; vertical-align: top;">
 - [x] [125. Valid Palindrome](0125_validPalindrome.ipynb) | easy 🟢  
 - [ ] 15. 3Sum | medium 🟠
 - [ ] 11. Container With Most Water | medium 🟠

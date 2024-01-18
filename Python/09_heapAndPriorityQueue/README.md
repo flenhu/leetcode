@@ -1,7 +1,7 @@
 # Heap & Priority Queue in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 
-## Blind 75 (🧑‍🦯7️⃣5️⃣)
+## Blind 75 <img src="../../assets/blind75small.png" alt="blind logo" style="height: 1em; vertical-align: top;">
 - [ ] 295. Find Median From Data Stream · hard 🔴
 
 ## NC 150
