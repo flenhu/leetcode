@@ -54,6 +54,10 @@
   | easy 🟢 
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
 
+- [Maximum Depth of Binary Tree](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb)
+  | easy 🟢 
+  | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
+
 ## [Tries](08_tries/README.md)
 
 ## [Heap & Priority Queue](09_heapAndPriorityQueue/README.md)
