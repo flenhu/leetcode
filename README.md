@@ -14,7 +14,7 @@
 
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   | easy 🟢
-  | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
+  | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: bottom">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0217_containsDuplicate.ipynb)
   | [<img src="assets/jsLogo.png" style="height: 1em; vertical-align: middle ">]()
   | [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: middle">]()
