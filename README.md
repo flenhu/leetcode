@@ -93,7 +93,7 @@
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb)
-  
+
 ## Tries
 
 ## Heap & Priority Queue
@@ -132,3 +132,9 @@
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em;  vertical-align: middle;">](Python/18_bitManipulation/0338_countingBits.ipynb)
+
+### Collections
+- [Blind 75](blind75.md)
+- [Top Interview Questions - Easy 🟢](easyCollection.md)
+- [Top Interview Questions - Medium 🟠](mediumCollection.md)
+- [Top Interview Questions - Hard 🔴](hardCollection.md)
