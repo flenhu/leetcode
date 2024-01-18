@@ -13,12 +13,7 @@
 ## Arrays & Hashing
 
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-  | easy 🟢 |
-  <a href="blind75.md">
-    <span style="display: inline-block; vertical-align: sub;">
-        <img src="assets/blind75Logo.png" style="height: 1em;">
-    </span>
-</a>
+  | easy 🟢 |‎ [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0217_containsDuplicate.ipynb)
   | [<img src="assets/jsLogo.png" style="height: 1em; vertical-align: middle ">]()
   | [<img src="assets/javaLogo.png" style="height: 1em; vertical-align: middle">]()
