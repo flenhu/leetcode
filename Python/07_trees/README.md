@@ -1,15 +1,15 @@
 # Trees in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [x] 226. [Invert Binary Tree](0226_invertBinaryTree.ipynb) · easy 🟢 
-- [ ] 104. Maximum Depth of Binary Tree · easy 🟢 
+- [x] [Invert Binary Tree](0226_invertBinaryTree.ipynb) | easy 🟢 
+- [x] [Maximum Depth of Binary Tree](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb) | easy 🟢 
 - [ ] 100. Same Tree · easy 🟢 
 - [ ] 572. Subtree of Another Tree · easy 🟢 
 - [ ] 235. Lowest Common Ancestor of a Binary Search Tree · medium 🟠
 - [ ] 102. Binary Tree Level Order Traversal · medium 🟠
 - [ ] 98. Validate Binary Search Tree · medium 🟠
 - [ ] 230. Kth Smallest Element In a Bst · medium 🟠
-- [ ] 105. Construct Binary Tree From Preorder And Inorder Traversal
+- [ ] 105. Construct Binary Tree From Preorder And Inorder Traversal · medium 🟠
 - [ ] 124. Binary Tree Maximum Path Sum · hard 🔴
 - [ ] 297. Serialize And Deserialize Binary Tree · hard 🔴
 
