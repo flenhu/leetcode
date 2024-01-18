@@ -14,8 +14,8 @@
 - [ ] 297. Serialize And Deserialize Binary Tree · hard 🔴
 
 ## NC 150
-- [ ] 543. Diameter of Binary Tree · easy 🟢 
-- [ ] 110. Balanced Binary Tree · easy 🟢 
+- [ ] 543. Diameter of Binary Tree | easy 🟢 
+- [ ] 110. Balanced Binary Tree | easy 🟢 
 - [ ] 199.Binary Tree Right Side View · medium 🟠
 - [ ] 1448. Count Good Nodes In Binary Tree · medium 🟠
 
