@@ -21,9 +21,6 @@
   | [<img src="assets/cppLogo.png" style="height: 1em; vertical-align: middle">]()
 
 
-
-
-
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   | easy 🟢
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
@@ -89,8 +86,14 @@
 ## Trees
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
   | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0226_invertBinaryTree.ipynb)
+
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+  | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
-  | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/07_trees/0226_invertBinaryTree.ipynb)
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb)
+  
 ## Tries
 
 ## Heap & Priority Queue
