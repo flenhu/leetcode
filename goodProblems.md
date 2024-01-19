@@ -3,27 +3,27 @@
 ## Arrays and Strings
 - [ ] Two Sum 👀 | 🟢 easy
 - [ ] Longest Substring Without Repeating Characters 👀 | 🟠 medium
-- [ ] String to Integer (atoi) 👀 |
-- [ ] Container With Most Water 👀 |
-- [ ] Integer to Roman 👀 |
-- [ ] Roman to Integer 👀 |
-- [ ] 3Sum 👀 |
-- [ ] 3Sum Closest 👀 |
-- [ ] 4Sum |
-- [ ] Implement strStr() |
-- [ ] Rotate Image 👀 |
-- [ ] Group Anagrams 👀 |
-- [ ] Minimum Window Substring 👀 |
+- [ ] String to Integer (atoi) 👀 | 🟠 medium
+- [ ] Container With Most Water 👀 | 🟠 medium
+- [ ] Integer to Roman 👀 | 🟠 medium
+- [ ] Roman to Integer 👀 | 🟢 easy
+- [ ] 3Sum 👀 | 🟠 medium
+- [ ] 3Sum Closest 👀 | 🟠 medium
+- [ ] 4Sum | 🟠 medium
+- [ ] Implement strStr() | 🟢 easy
+- [ ] Rotate Image 👀 | 🟠 medium
+- [ ] Group Anagrams 👀 | 🟠 medium
+- [ ] Minimum Window Substring 👀 | 🔴 hard
 - [ ] Compare Version Numbers |
-- [ ] Product of Array Except Self 👀 |
-- [ ] Missing Number 👀 |
+- [ ] Product of Array Except Self 👀 | 🟠 medium
+- [ ] Missing Number 👀 | 🟢 easy
 - [ ] Integer to English Words 👀 |
 - [ ] First Unique Character in a String 👀 |
-- [ ] Valid Parentheses 👀 |
+- [ ] Valid Parentheses 👀 | 🟢 easy
 - [ ] Most Common Word |
 - [ ] Reorder Log Files |
 - [ ] Trapping Rain Water 👀 |
-- [ ] Valid Palindrome 👀 |
+- [ ] Valid Palindrome 👀 | 🟢 easy
 - [ ] Reverse String |
 - [ ] Reverse Words in a String |
 - [ ] Reverse Words in a String II |
@@ -37,7 +37,7 @@
 - [ ] Next Permutation |
 - [ ] Multiply Strings |
 - [ ] Jump Game |
-- [ ] Plus One |
+- [ ] Plus One | 🟢 easy
 - [ ] Read N Characters Given Read4 II - Call multiple times |
 - [ ] Longest Substring with At Most Two Distinct Characters |
 - [ ] Missing Ranges |
@@ -45,12 +45,12 @@
 - [ ] Expressive Words |
 - [ ] Find And Replace in String
 - [ ] Maximize Distance to Closest Person |
-- [ ] Merge k Sorted Lists |
+- [ ] Merge k Sorted Lists | 🔴 hard
 - [ ] Kth Largest Element in an Array |
 - [ ] Meeting Rooms II |
 - [ ] Backspace String Compare |
 - [ ] Minimum Cost to Hire K Workers |
-- [ ] K Closest Points to Origin
+- [ ] K Closest Points to Origin | 🟠 medium
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Add Binary
 - [ ] Merge Sorted Array
@@ -59,40 +59,40 @@
 - [ ] Validate IP Address
 
 ## Linked Lists
-- [ ] Add Two Numbers 👀
-- [ ] Merge Two Sorted Lists 👀
-- [ ] Copy List with Random Pointer 👀
-- [ ] Reorder List
-- [ ] Reverse Nodes in k-Group
-- [ ] Reverse Linked List 👀
-- [ ] Merge k Sorted Lists 👀
-- [ ] Linked List Cycle
-- [ ] Add Two Numbers II
-- [ ] Intersection of Two Linked Lists
-- [ ] Remove Nth Node From End of List
+- [ ] Add Two Numbers 👀 |
+- [ ] Merge Two Sorted Lists 👀 |
+- [ ] Copy List with Random Pointer 👀 |
+- [ ] Reorder List |
+- [ ] Reverse Nodes in k-Group |
+- [ ] Reverse Linked List 👀 |
+- [ ] Merge k Sorted Lists 👀 |
+- [ ] Linked List Cycle |
+- [ ] Add Two Numbers II |
+- [ ] Intersection of Two Linked Lists |
+- [ ] Remove Nth Node From End of List |
 
 ## Trees and Graphs
-- [ ] Validate Binary Search Tree 👀
-- [ ] Flatten Binary Tree to Linked List
-- [ ] Binary Tree Maximum Path Sum 👀
-- [ ] Clone Graph 👀
-- [ ] Binary Tree Right Side View
-- [ ] Number of Islands 👀
-- [ ] Lowest Common Ancestor of a Binary Tree 👀
-- [ ] Binary Tree Paths
-- [ ] Alien Dictionary
-- [ ] Shortest Distance from All Buildings
-- [ ] Diameter of Binary Tree 👀
-- [ ] Accounts Merge
-- [ ] Convert Binary Search Tree to Sorted Doubly Linked List
-- [ ] Is Graph Bipartite?
-- [ ] Binary Tree Vertical Order Traversal
-- [ ] Symmetric Tree
-- [ ] Binary Tree Level Order Traversal
-- [ ] Binary Tree Zigzag Level Order Traversal
-- [ ] Word Ladder II
-- [ ] Word Ladder 👀
-- [ ] Course Schedule
+- [ ] Validate Binary Search Tree 👀 |
+- [ ] Flatten Binary Tree to Linked List |
+- [ ] Binary Tree Maximum Path Sum 👀 |
+- [ ] Clone Graph 👀 |
+- [ ] Binary Tree Right Side View |
+- [ ] Number of Islands 👀 |
+- [ ] Lowest Common Ancestor of a Binary Tree 👀 |
+- [ ] Binary Tree Paths |
+- [ ] Alien Dictionary |
+- [ ] Shortest Distance from All Buildings |
+- [ ] Diameter of Binary Tree 👀 |
+- [ ] Accounts Merge |
+- [ ] Convert Binary Search Tree to Sorted Doubly Linked List |
+- [ ] Is Graph Bipartite? |
+- [ ] Binary Tree Vertical Order Traversal |
+- [ ] Symmetric Tree |
+- [ ] Binary Tree Level Order Traversal |
+- [ ] Binary Tree Zigzag Level Order Traversal |
+- [ ] Word Ladder II |
+- [ ] Word Ladder 👀 |
+- [ ] Course Schedule |
 - [ ] Cut Off Trees for Golf Event |
 - [ ] Flood Fill |
 - [ ] Binary Tree Inorder Traversal |
