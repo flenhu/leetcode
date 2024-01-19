@@ -1,190 +1,186 @@
 # MAMAA
 
 ## Arrays and Strings
-- [ ] Two Sum 👀 | 🟢 easy
-- [ ] Longest Substring Without Repeating Characters 👀 | 🟠 medium
-- [ ] String to Integer (atoi) 👀 | 🟠 medium
-- [ ] Container With Most Water 👀 | 🟠 medium
-- [ ] Integer to Roman 👀 | 🟠 medium
+- [ ] Two Sum 👀 | 🟢 Easy
+- [ ] Longest Substring Without Repeating Characters 👀 | 🟠 Medium
+- [ ] String to Integer (atoi) 👀 | 🟠 Medium
+- [ ] Container With Most Water 👀 | 🟠 Medium
+- [ ] Integer to Roman 👀 | 🟠 Medium
 - [ ] Roman to Integer 👀 | 🟢 easy
-- [ ] 3Sum 👀 | 🟠 medium
-- [ ] 3Sum Closest 👀 | 🟠 medium
+- [ ] 3Sum 👀 | 🟠 Medium
+- [ ] 3Sum Closest 👀 | 🟠 Medium
 - [ ] 4Sum | 🟠 medium
-- [ ] Implement strStr() | 🟢 easy
-- [ ] Rotate Image 👀 | 🟠 medium
-- [ ] Group Anagrams 👀 | 🟠 medium
-- [ ] Minimum Window Substring 👀 | 🔴 hard
-- [ ] Compare Version Numbers | 🟠 medium
-- [ ] Product of Array Except Self 👀 | 🟠 medium
-- [ ] Missing Number 👀 | 🟢 easy
-- [ ] Integer to English Words 👀 |
-- [ ] First Unique Character in a String 👀 | 🟢 easy
-- [ ] Valid Parentheses 👀 | 🟢 easy
-- [ ] Most Common Word | 🟢 easy
-- [ ] Reorder Data in Log Files | 🟠 medium
-- [ ] Trapping Rain Water 👀 | 🔴 hard
-- [ ] Valid Palindrome 👀 | 🟢 easy
-- [ ] Reverse String | 🟢 easy
-- [ ] Reverse Words in a String | 🟠 medium
-- [ ] Reverse Words in a String II | 🟠 medium
-- [ ] Longest Palindromic Substring | 🟠 medium
-- [ ] Set Matrix Zeroes | 🟠 medium
-- [ ] Spiral Matrix 👀 | 🟠 medium
-- [ ] Majority Element II | 🟠 medium
-- [ ] Subarray Sum Equals K 👀 | 🟠 medium
-- [ ] Squares of a Sorted Array | 🟢 easy
-- [ ] Sparse Matrix Multiplication 🔒 | 🟠 medium
-- [ ] Next Permutation | 🟠 medium
-- [ ] Multiply Strings | 🟠 medium
-- [ ] Jump Game | 🟠 medium
-- [ ] Plus One | 🟢 easy
-- [ ] Read N Characters Given Read4 II - Call multiple times | 🔴 hard
-- [ ] Longest Substring with At Most Two Distinct Characters | 🟠 medium
-- [ ] Missing Ranges 🔒 | 🟢 easy
-- [ ] Next Closest Time | 🟠 medium
-- [ ] Expressive Words | 🟠 medium
-- [ ] Find And Replace in String | 🟠 medium
-- [ ] Maximize Distance to Closest Person | 🟠 medium
-- [ ] Kth Largest Element in an Array | 🟠 medium
-- [ ] Meeting Rooms II | 🟠 medium
+- [ ] Implement strStr() | 🟢 Easy
+- [ ] Rotate Image 👀 | 🟠 Medium
+- [ ] Group Anagrams 👀 | 🟠 Medium
+- [ ] Minimum Window Substring 👀 | 🔴 Hard
+- [ ] Compare Version Numbers | 🟠 Medium
+- [ ] Product of Array Except Self 👀 | 🟠 Medium
+- [ ] Missing Number 👀 | 🟢 Easy
+- [ ] Integer to English Words 👀 | 🔴 Hard
+- [ ] First Unique Character in a String 👀 | 🟢 Easy
+- [ ] Valid Parentheses 👀 | 🟢 Easy
+- [ ] Most Common Word | 🟢 Easy
+- [ ] Reorder Data in Log Files | 🟠 Medium
+- [ ] Trapping Rain Water 👀 | 🔴 Hard
+- [ ] Valid Palindrome 👀 | 🟢 Easy
+- [ ] Reverse String | 🟢 Easy
+- [ ] Reverse Words in a String | 🟠 Medium
+- [ ] Reverse Words in a String II | 🟠 Medium
+- [ ] Longest Palindromic Substring | 🟠 Medium
+- [ ] Set Matrix Zeroes | 🟠 Medium
+- [ ] Spiral Matrix 👀 | 🟠 Medium
+- [ ] Majority Element II | 🟠 Medium
+- [ ] Subarray Sum Equals K 👀 | 🟠 Medium
+- [ ] Squares of a Sorted Array | 🟢 Easy
+- [ ] Sparse Matrix Multiplication 🔒 | 🟠 Medium
+- [ ] Next Permutation | 🟠 Medium
+- [ ] Multiply Strings | 🟠 Medium
+- [ ] Jump Game | 🟠 Medium
+- [ ] Plus One | 🟢 Easy
+- [ ] Read N Characters Given Read4 II - Call multiple times | 🔴 Hard
+- [ ] Longest Substring with At Most Two Distinct Characters | 🟠 Medium
+- [ ] Missing Ranges 🔒 | 🟢 Easy
+- [ ] Next Closest Time | 🟠 Medium
+- [ ] Expressive Words | 🟠 Medium
+- [ ] Find And Replace in String | 🟠 Medium
+- [ ] Maximize Distance to Closest Person | 🟠 Medium
+- [ ] Kth Largest Element in an Array | 🟠 Medium
+- [ ] Meeting Rooms II | 🟠 Medium
 - [ ] Backspace String Compare | 🟢 easy
-- [ ] Minimum Cost to Hire K Workers | 🔴 hard
-- [ ] K Closest Points to Origin | 🟠 medium
-- [ ] Remove Duplicates from Sorted Array | 🟢 easy
-- [ ] Add Binary | 🟢 easy
-- [ ] Merge Sorted Array | 🟢 easy 
-- [ ] Read N Characters Given Read4 🔒 | 🟢 easy 
-- [ ] One Edit Distance 🔒 | 🟠 medium
-- [ ] Validate IP Address | 🟠 medium
+- [ ] Minimum Cost to Hire K Workers | 🔴 Hard
+- [ ] K Closest Points to Origin | 🟠 Medium
+- [ ] Remove Duplicates from Sorted Array | 🟢 Easy
+- [ ] Add Binary | 🟢 Easy
+- [ ] Merge Sorted Array | 🟢 Easy 
+- [ ] Read N Characters Given Read4 🔒 | 🟢 Easy 
+- [ ] One Edit Distance 🔒 | 🟠 Medium
+- [ ] Validate IP Address | 🟠 Medium
 
 ## Linked Lists
-- [ ] Add Two Numbers 👀 | 🟠 medium
-- [ ] Merge Two Sorted Lists 👀 | 🟢 easy 
-- [ ] Copy List with Random Pointer 👀 | 🟠 medium
-- [ ] Reorder List | 🟠 medium
-- [ ] Reverse Nodes in k-Group | 🔴 hard
-- [ ] Reverse Linked List 👀 | 🟢 easy 
-- [ ] Merge k Sorted Lists 👀 | 🔴 hard
-- [ ] Linked List Cycle | 🟢 easy 
+- [ ] Add Two Numbers 👀 | 🟠 Medium
+- [ ] Merge Two Sorted Lists 👀 | 🟢 Easy 
+- [ ] Copy List with Random Pointer 👀 | 🟠 Medium
+- [ ] Reorder List | 🟠 Medium
+- [ ] Reverse Nodes in k-Group | 🔴 Hard
+- [ ] Reverse Linked List 👀 | 🟢 Easy 
+- [ ] Merge k Sorted Lists 👀 | 🔴 Hard
+- [ ] Linked List Cycle | 🟢 Easy 
 - [ ] Add Two Numbers II | 🟠 medium
-- [ ] Intersection of Two Linked Lists | 🟢 easy 
-- [ ] Remove Nth Node From End of List | 🟠 medium
+- [ ] Intersection of Two Linked Lists | 🟢 Easy 
+- [ ] Remove Nth Node From End of List | 🟠 Medium
 
 ## Trees and Graphs
-- [ ] Validate Binary Search Tree 👀 |
-- [ ] Flatten Binary Tree to Linked List |
-- [ ] Binary Tree Maximum Path Sum 👀 |
-- [ ] Clone Graph 👀 |
-- [ ] Binary Tree Right Side View |
-- [ ] Number of Islands 👀 |
-- [ ] Lowest Common Ancestor of a Binary Tree 👀 |
-- [ ] Binary Tree Paths |
-- [ ] Alien Dictionary |
-- [ ] Shortest Distance from All Buildings |
-- [ ] Diameter of Binary Tree 👀 |
-- [ ] Accounts Merge |
-- [ ] Convert Binary Search Tree to Sorted Doubly Linked List |
-- [ ] Is Graph Bipartite? |
-- [ ] Binary Tree Vertical Order Traversal |
-- [ ] Symmetric Tree |
-- [ ] Binary Tree Level Order Traversal |
-- [ ] Binary Tree Zigzag Level Order Traversal |
-- [ ] Word Ladder II |
-- [ ] Word Ladder 👀 |
-- [ ] Course Schedule |
-- [ ] Cut Off Trees for Golf Event |
-- [ ] Flood Fill |
-- [ ] Binary Tree Inorder Traversal |
-- [ ] Populating Next Right Pointers in Each Node |
-- [ ] Populating Next Right Pointers in Each Node II |
-- [ ] Lowest Common Ancestor of a Binary Search Tree |
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal |
-- [ ] Same Tree |
-- [ ] Maximum Depth of Binary Tree |
-- [ ] Longest Increasing Path in a Matrix 👀 |
-- [ ] Course Schedule II |
-- [ ] Count Complete Tree Nodes |
-- [ ] Decode String |
-- [ ] Evaluate Division |
-- [ ] Cracking the Safe |
-- [ ] Robot Room Cleaner |
-- [ ] Most Stones Removed with Same Row or Column |
-- [ ] Flip Equivalent Binary Trees |
+- [ ] Validate Binary Search Tree 👀 | 🟠 Medium
+- [ ] Flatten Binary Tree to Linked List | 🟠 Medium
+- [ ] Binary Tree Maximum Path Sum 👀 | 🔴 Hard
+- [ ] Clone Graph 👀 | 🟠 Medium
+- [ ] Binary Tree Right Side View | 🟠 Medium
+- [ ] Number of Islands 👀 | 🟠 Medium
+- [ ] Lowest Common Ancestor of a Binary Tree 👀 | 🟠 Medium
+- [ ] Binary Tree Paths | 🟢 Easy 
+- [ ] Alien Dictionary | 🔴 Hard
+- [ ] Shortest Distance from All Buildings | 🔴 Hard
+- [ ] Diameter of Binary Tree 👀 | 🟢 Easy 
+- [ ] Accounts Merge | 🟠 Medium
+- [ ] Convert Binary Search Tree to Sorted Doubly Linked List 🔒 | 🟠 Medium
+- [ ] Is Graph Bipartite? | 🟠 Medium
+- [ ] Binary Tree Vertical Order Traversal | 🔴 Hard
+- [ ] Symmetric Tree | 🟢 Easy
+- [ ] Binary Tree Level Order Traversal | 🟠 Medium
+- [ ] Binary Tree Zigzag Level Order Traversal | 🟠 Medium
+- [ ] Word Ladder II | 🔴 Hard
+- [ ] Word Ladder 👀 | 🔴 Hard
+- [ ] Course Schedule | 🟠 medium
+- [ ] Cut Off Trees for Golf Event | 🔴 Hard
+- [ ] Flood Fill | 🟢 Easy
+- [ ] Binary Tree Inorder Traversal | 🟢 easy
+- [ ] Populating Next Right Pointers in Each Node | 🟠 Medium
+- [ ] Populating Next Right Pointers in Each Node II | 🟠 Medium
+- [ ] Lowest Common Ancestor of a Binary Search Tree | 🟠 Medium
+- [ ] Construct Binary Tree from Preorder and Inorder Traversal | 🟠 Medium
+- [ ] Same Tree | 🟢 Easy
+- [ ] Maximum Depth of Binary Tree | 🟢 Easy
+- [ ] Longest Increasing Path in a Matrix 👀 | 🔴 Hard
+- [ ] Course Schedule II | 🟠 Medium
+- [ ] Count Complete Tree Nodes | 🟢 easy
+- [ ] Decode String | 🟠 Medium
+- [ ] Evaluate Division | 🟠 Medium
+- [ ] Cracking the Safe | 🔴 Hard
+- [ ] Robot Room Cleaner | 🔴 Hard
+- [ ] Most Stones Removed with Same Row or Column | 🟠 Medium
+- [ ] Flip Equivalent Binary Trees | 🟠 Medium
 
 ## Recursion
-- [ ] Letter Combinations of a Phone Number 👀 |
-- [ ] Permutations 👀 | 🟠 medium
-- [ ] Permutations II | 🟠 medium
-- [ ] Remove Invalid Parentheses | 🔴 hard
-- [ ] Regular Expression Matching | 🔴 hard
-- [ ] Subsets 👀 | 🟠 medium
-- [ ] Strobogrammatic Number II 👀🔒 | 🟠 medium
-- [ ] Generate Parentheses 👀 | 🟠 medium
-- [ ] Word Search 👀 | 🟠 medium
-- [ ] Word Search II 👀 | 🔴 hard
-- [ ] Combination Sum | 🟠 medium
-- [ ] Word Squares | 🔴 hard
-- [ ] Android Unlock Patterns 🔒| 🟠 medium
+- [ ] Letter Combinations of a Phone Number 👀 | 🟠 Medium
+- [ ] Permutations 👀 | 🟠 Medium
+- [ ] Permutations II | 🟠 Medium
+- [ ] Remove Invalid Parentheses | 🔴 Hard
+- [ ] Regular Expression Matching | 🔴 Hard
+- [ ] Subsets 👀 | 🟠 Medium
+- [ ] Strobogrammatic Number II 👀🔒 | 🟠 Medium
+- [ ] Generate Parentheses 👀 | 🟠 Medium
+- [ ] Word Search 👀 | 🟠 Medium
+- [ ] Word Search II 👀 | 🔴 Hard
+- [ ] Combination Sum | 🟠 Medium
+- [ ] Word Squares | 🔴 Hard
+- [ ] Android Unlock Patterns 🔒| 🟠 Medium
 
 ## Backtracking
-- [ ] Wildcard Matching | 🔴 hard
+- [ ] Wildcard Matching | 🔴 Hard
 
 ## Sorting and Searching
-- [ ] Divide Two Integers | 🟠 medium
-- [ ] Search in Rotated Sorted Array 👀 |
-- [ ] Find First and Last Position of Element in Sorted Array 👀 |
-- [ ] Pow(x, n) |
-- [ ] Merge Intervals 👀 |
-- [ ] Find Peak Element |
+- [ ] Divide Two Integers | 🟠 Medium
+- [ ] Search in Rotated Sorted Array 👀 | 🟠 Medium
+- [ ] Find First and Last Position of Element in Sorted Array 👀 | 🟠 Medium
+- [ ] Pow(x, n) | 🟠 Medium
+- [ ] Merge Intervals 👀 | 🟠 Medium
+- [ ] Find Peak Element | 🟠 Medium
 - [ ] First Bad Version | 🟢 Easy
-- [ ] Intersection of Two Arrays 👀 |
-- [ ] Intersection of Two Arrays II 👀 |
-- [ ] Median of Two Sorted Arrays 👀 |
-- [ ] Two Sum II - Input array is sorted |
-- [ ] Kth Largest Element in an Array |
-- [ ] Meeting Rooms II |
-- [ ] Top K Frequent Elements |
-- [ ] K Closest Points to Origin 👀 |
-- [ ] Sort Colors 👀
-- [ ] Find Minimum in Rotated Sorted Array |
-- [ ] Find Minimum in Rotated Sorted Array II |
-- [ ] Search a 2D Matrix |
-- [ ] Search a 2D Matrix II |
-- [ ] Valid Anagram 👀 |
-- [ ] Top K Frequent Words
-- [ ] Insert Interval |
-- [ ] Count of Smaller Numbers After Self
-- [ ] Peak Index in a Mountain Array
+- [ ] Intersection of Two Arrays 👀 | 🟢 Easy
+- [ ] Intersection of Two Arrays II 👀 | 🟢 Easy
+- [ ] Median of Two Sorted Arrays 👀 | 🔴 Hard
+- [ ] Two Sum II - Input Array is Sorted | 🟠 Medium
+- [ ] Top K Frequent Elements | 🟠 Medium
+- [ ] Sort Colors 👀 | 🟠 Medium
+- [ ] Find Minimum in Rotated Sorted Array | 🟠 Medium
+- [ ] Find Minimum in Rotated Sorted Array II | 🔴 Hard
+- [ ] Search a 2D Matrix | 🟠 Medium
+- [ ] Search a 2D Matrix II | 🟠 Medium
+- [ ] Valid Anagram 👀 | 🟢 Easy
+- [ ] Top K Frequent Words | 🟠 Medium
+- [ ] Insert Interval | 🟠 Medium
+- [ ] Count of Smaller Numbers After Self | 🔴 Hard
+- [ ] Peak Index in a Mountain Array | 🟠 Medium
 
 ## Dynamic Programming
-- [ ] Longest Palindromic Substring 👀 |
-- [ ] Longest Valid Parentheses |
-- [ ] Decode Ways |
-- [ ] Best Time to Buy and Sell Stock 👀 |
-- [ ] Word Break 👀 |
-- [ ] Range Sum Query 2D - Immutable |
-- [ ] Continuous Subarray Sum |
-- [ ] Maximum Subarray 👀 |
-- [ ] Coin Change 👀 |
-- [ ] Longest Increasing Subsequence |
-- [ ] Maximum Product Subarray |
-- [ ] Split Array Largest Sum |
+- [ ] Longest Valid Parentheses | 🔴 Hard
+- [ ] Decode Ways | 🟠 Medium
+- [ ] Best Time to Buy and Sell Stock 👀 | 🟢 Easy
+- [ ] Word Break 👀 | 🟠 Medium
+- [ ] Range Sum Query 2D - Immutable | 🟠 Medium
+- [ ] Continuous Subarray Sum | 🟠 Medium
+- [ ] Maximum Subarray 👀 | 🟠 Medium
+- [ ] Coin Change 👀 | 🟠 Medium
+- [ ] Longest Increasing Subsequence | 🟠 Medium
+- [ ] Maximum Product Subarray | 🟠 Medium
+- [ ] Split Array Largest Sum | 🔴 Hard
 
 ## Design
-- [ ] LRU Cache 👀 |
-- [ ] Binary Search Tree Iterator |
-- [ ] Add and Search Word - Data structure design |
-- [ ] Serialize and Deserialize Binary Tree 👀 |
-- [ ] Min Stack 👀 |
-- [ ] Find Median from Data Stream |
-- [ ] Design Tic-Tac-Toe |
-- [ ] Design Search Autocomplete System 👀 |
-- [ ] Maximum Frequency Stack |
-- [ ] Serialize and Deserialize BST |
-- [ ] Implement Trie (Prefix Tree) |
-- [ ] Flatten Nested List Iterator |
-- [ ] Insert Delete GetRandom O(1) 👀
-- [ ] Logger Rate Limiter
+- [ ] LRU Cache 👀 | 🟠 Medium
+- [ ] Binary Search Tree Iterator | 🟠 Medium
+- [ ] Add and Search Word - Data structure design | 🟠 Medium
+- [ ] Serialize and Deserialize Binary Tree 👀 | 🔴 Hard
+- [ ] Min Stack 👀 | 🟠 Medium
+- [ ] Find Median from Data Stream | 🔴 Hard
+- [ ] Design Tic-Tac-Toe | 🟠 Medium
+- [ ] Design Search Autocomplete System 👀 | 🔴 Hard
+- [ ] Maximum Frequency Stack | 🔴 Hard
+- [ ] Serialize and Deserialize BST | 🟠 Medium
+- [ ] Implement Trie (Prefix Tree) | 🟠 Medium
+- [ ] Flatten Nested List Iterator | 🟠 Medium
+- [ ] Insert Delete GetRandom O(1) 👀 | 🟠 Medium
+- [ ] Logger Rate Limiter 🔒 | 🟢 Easy
 
 ## Other
 - [ ] Expression Add Operators | 🔴 Hard
@@ -197,19 +193,16 @@
 - [ ] Partition Labels | 🟠 Medium
 - [ ] Prison Cells After N Days | 🟠 Medium
 - [ ] Single Number | 🟢 Easy
-- [ ] Excel Sheet Column Number |
-- [ ] Find the Celebrity |
-- [ ] Integer to English Words |
-- [ ] The Skyline Problem |
-- [ ] Valid Sudoku |
-- [ ] Combine Two Tables |
-- [ ] Rank Scores |
-- [ ] Happy Number |
-- [ ] Fizz Buzz |
-- [ ] Jewels and Stones 👀 |
-- [ ] Candy |
-- [ ] Isomorphic Strings |
-- [ ] Strobogrammatic Number |
+- [ ] Excel Sheet Column Number | 🟢 Easy
+- [ ] Find the Celebrity 🔒 | 🟠 Medium
+- [ ] The Skyline Problem | 🔴 Hard
+- [ ] Valid Sudoku | 🟠 Medium
+- [ ] Happy Number | 🟢 Easy
+- [ ] Fizz Buzz | 🟢 Easy
+- [ ] Jewels and Stones 👀 | 🟢 Easy
+- [ ] Candy | 🔴 Hard
+- [ ] Isomorphic Strings | 🟢 Easy
+- [ ] Strobogrammatic Number 🔒 | 🟢 Easy
 - [ ] Bulls and Cows | 🟠 Medium
 - [ ] Range Sum Query 2D - Mutable | 🔴 Hard
 - [ ] My Calendar II | 🟠 Medium
