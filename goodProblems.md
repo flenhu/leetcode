@@ -14,62 +14,61 @@
 - [ ] Rotate Image 👀 | 🟠 medium
 - [ ] Group Anagrams 👀 | 🟠 medium
 - [ ] Minimum Window Substring 👀 | 🔴 hard
-- [ ] Compare Version Numbers |
+- [ ] Compare Version Numbers | 🟠 medium
 - [ ] Product of Array Except Self 👀 | 🟠 medium
 - [ ] Missing Number 👀 | 🟢 easy
 - [ ] Integer to English Words 👀 |
-- [ ] First Unique Character in a String 👀 |
+- [ ] First Unique Character in a String 👀 | 🟢 easy
 - [ ] Valid Parentheses 👀 | 🟢 easy
-- [ ] Most Common Word |
-- [ ] Reorder Log Files |
-- [ ] Trapping Rain Water 👀 |
+- [ ] Most Common Word | 🟢 easy
+- [ ] Reorder Data in Log Files | 🟠 medium
+- [ ] Trapping Rain Water 👀 | 🔴 hard
 - [ ] Valid Palindrome 👀 | 🟢 easy
-- [ ] Reverse String |
-- [ ] Reverse Words in a String |
-- [ ] Reverse Words in a String II |
-- [ ] Longest Palindromic Substring |
-- [ ] Set Matrix Zeroes |
-- [ ] Spiral Matrix 👀 |
-- [ ] Majority Element II |
-- [ ] Subarray Sum Equals K 👀 |
-- [ ] Squares of a Sorted Array |
-- [ ] Sparse Matrix Multiplication |
-- [ ] Next Permutation |
-- [ ] Multiply Strings |
-- [ ] Jump Game |
+- [ ] Reverse String | 🟢 easy
+- [ ] Reverse Words in a String | 🟠 medium
+- [ ] Reverse Words in a String II | 🟠 medium
+- [ ] Longest Palindromic Substring | 🟠 medium
+- [ ] Set Matrix Zeroes | 🟠 medium
+- [ ] Spiral Matrix 👀 | 🟠 medium
+- [ ] Majority Element II | 🟠 medium
+- [ ] Subarray Sum Equals K 👀 | 🟠 medium
+- [ ] Squares of a Sorted Array | 🟢 easy
+- [ ] Sparse Matrix Multiplication 🔒 | 🟠 medium
+- [ ] Next Permutation | 🟠 medium
+- [ ] Multiply Strings | 🟠 medium
+- [ ] Jump Game | 🟠 medium
 - [ ] Plus One | 🟢 easy
-- [ ] Read N Characters Given Read4 II - Call multiple times |
-- [ ] Longest Substring with At Most Two Distinct Characters |
-- [ ] Missing Ranges |
-- [ ] Next Closest Time |
-- [ ] Expressive Words |
-- [ ] Find And Replace in String
-- [ ] Maximize Distance to Closest Person |
-- [ ] Merge k Sorted Lists | 🔴 hard
-- [ ] Kth Largest Element in an Array |
-- [ ] Meeting Rooms II |
-- [ ] Backspace String Compare |
-- [ ] Minimum Cost to Hire K Workers |
+- [ ] Read N Characters Given Read4 II - Call multiple times | 🔴 hard
+- [ ] Longest Substring with At Most Two Distinct Characters | 🟠 medium
+- [ ] Missing Ranges 🔒 | 🟢 easy
+- [ ] Next Closest Time | 🟠 medium
+- [ ] Expressive Words | 🟠 medium
+- [ ] Find And Replace in String | 🟠 medium
+- [ ] Maximize Distance to Closest Person | 🟠 medium
+- [ ] Kth Largest Element in an Array | 🟠 medium
+- [ ] Meeting Rooms II | 🟠 medium
+- [ ] Backspace String Compare | 🟢 easy
+- [ ] Minimum Cost to Hire K Workers | 🔴 hard
 - [ ] K Closest Points to Origin | 🟠 medium
-- [ ] Remove Duplicates from Sorted Array
-- [ ] Add Binary
-- [ ] Merge Sorted Array
-- [ ] Read N Characters Given Read4
-- [ ] One Edit Distance
-- [ ] Validate IP Address
+- [ ] Remove Duplicates from Sorted Array | 🟢 easy
+- [ ] Add Binary | 🟢 easy
+- [ ] Merge Sorted Array | 🟢 easy 
+- [ ] Read N Characters Given Read4 🔒 | 🟢 easy 
+- [ ] One Edit Distance 🔒 | 🟠 medium
+- [ ] Validate IP Address | 🟠 medium
 
 ## Linked Lists
-- [ ] Add Two Numbers 👀 |
-- [ ] Merge Two Sorted Lists 👀 |
-- [ ] Copy List with Random Pointer 👀 |
-- [ ] Reorder List |
-- [ ] Reverse Nodes in k-Group |
-- [ ] Reverse Linked List 👀 |
-- [ ] Merge k Sorted Lists 👀 |
-- [ ] Linked List Cycle |
-- [ ] Add Two Numbers II |
-- [ ] Intersection of Two Linked Lists |
-- [ ] Remove Nth Node From End of List |
+- [ ] Add Two Numbers 👀 | 🟠 medium
+- [ ] Merge Two Sorted Lists 👀 | 🟢 easy 
+- [ ] Copy List with Random Pointer 👀 | 🟠 medium
+- [ ] Reorder List | 🟠 medium
+- [ ] Reverse Nodes in k-Group | 🔴 hard
+- [ ] Reverse Linked List 👀 | 🟢 easy 
+- [ ] Merge k Sorted Lists 👀 | 🔴 hard
+- [ ] Linked List Cycle | 🟢 easy 
+- [ ] Add Two Numbers II | 🟠 medium
+- [ ] Intersection of Two Linked Lists | 🟢 easy 
+- [ ] Remove Nth Node From End of List | 🟠 medium
 
 ## Trees and Graphs
 - [ ] Validate Binary Search Tree 👀 |
@@ -146,8 +145,6 @@
 - [ ] Meeting Rooms II |
 - [ ] Top K Frequent Elements |
 - [ ] K Closest Points to Origin 👀 |
-- [ ] Remove Duplicates from Sorted Array |
-- [ ] Merge Sorted Array |
 - [ ] Sort Colors 👀
 - [ ] Find Minimum in Rotated Sorted Array |
 - [ ] Find Minimum in Rotated Sorted Array II |
@@ -190,17 +187,16 @@
 - [ ] Logger Rate Limiter
 
 ## Other
-- [ ] Expression Add Operators |
-- [ ] Find All Anagrams in a String |
-- [ ] Permutation in String |
-- [ ] Verifying an Alien Dictionary |
-- [ ] Interval List Intersections |
-- [ ] Reverse Integer 👀 |
-- [ ] Second Highest Salary |
-- [ ] Partition Labels |
-- [ ] Prison Cells After N Days |
-- [ ] Single Number |
-- [ ] Roman to Integer |
+- [ ] Expression Add Operators | 🔴 Hard
+- [ ] Find All Anagrams in a String | 🟠 Medium
+- [ ] Permutation in String | 🟠 Medium
+- [ ] Verifying an Alien Dictionary | 🟢 Easy
+- [ ] Interval List Intersections | 🟠 Medium
+- [ ] Reverse Integer 👀 | 🟠 Medium
+- [ ] Second Highest Salary | 🟠 Medium
+- [ ] Partition Labels | 🟠 Medium
+- [ ] Prison Cells After N Days | 🟠 Medium
+- [ ] Single Number | 🟢 Easy
 - [ ] Excel Sheet Column Number |
 - [ ] Find the Celebrity |
 - [ ] Integer to English Words |
@@ -214,9 +210,9 @@
 - [ ] Candy |
 - [ ] Isomorphic Strings |
 - [ ] Strobogrammatic Number |
-- [ ] Bulls and Cows |
-- [ ] Range Sum Query 2D - Mutable
-- [ ] My Calendar II |
-- [ ] Swap Adjacent in LR String |
-- [ ] Guess the Word |
-- [ ] Minimum Area Rectangle |
+- [ ] Bulls and Cows | 🟠 Medium
+- [ ] Range Sum Query 2D - Mutable | 🔴 Hard
+- [ ] My Calendar II | 🟠 Medium
+- [ ] Swap Adjacent in LR String | 🟠 Medium
+- [ ] Guess the Word | 🔴 Hard
+- [ ] Minimum Area Rectangle | 🟠 Medium
