@@ -82,7 +82,6 @@
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em;">](Python/06_linkedList/0021_mergeTwoSortedLists.ipynb)
 
-
 ## Trees
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
   | easy 🟢 
@@ -93,6 +92,11 @@
   | easy 🟢 
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb)
+
+- [Same Tree](https://leetcode.com/problems/same-tree/description/)
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0100_sameTree.ipynb)
 
 ## Tries
 

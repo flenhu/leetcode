@@ -54,7 +54,11 @@
   | easy 🟢 
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
 
-- [Maximum Depth of Binary Tree](Python/07_trees/0104_maximumDepthOfBinaryTree.ipynb)
+- [Maximum Depth of Binary Tree](07_trees/0104_maximumDepthOfBinaryTree.ipynb)
+  | easy 🟢 
+  | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
+
+- [Same Tree](07_trees/0100_sameTree.ipynb)
   | easy 🟢 
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
 
