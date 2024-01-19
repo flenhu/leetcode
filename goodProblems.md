@@ -113,30 +113,30 @@
 
 ## Recursion
 - [ ] Letter Combinations of a Phone Number 👀 |
-- [ ] Permutations 👀 |
-- [ ] Permutations II |
-- [ ] Remove Invalid Parentheses |
-- [ ] Regular Expression Matching |
-- [ ] Subsets 👀 |
-- [ ] Strobogrammatic Number II 👀 |
-- [ ] Generate Parentheses 👀 |
-- [ ] Word Search 👀 |
-- [ ] Word Search II 👀 |
-- [ ] Combination Sum |
-- [ ] Word Squares |
-- [ ] Android Unlock Patterns |
+- [ ] Permutations 👀 | 🟠 medium
+- [ ] Permutations II | 🟠 medium
+- [ ] Remove Invalid Parentheses | 🔴 hard
+- [ ] Regular Expression Matching | 🔴 hard
+- [ ] Subsets 👀 | 🟠 medium
+- [ ] Strobogrammatic Number II 👀🔒 | 🟠 medium
+- [ ] Generate Parentheses 👀 | 🟠 medium
+- [ ] Word Search 👀 | 🟠 medium
+- [ ] Word Search II 👀 | 🔴 hard
+- [ ] Combination Sum | 🟠 medium
+- [ ] Word Squares | 🔴 hard
+- [ ] Android Unlock Patterns 🔒| 🟠 medium
 
 ## Backtracking
-- [ ] Wildcard Matching |
+- [ ] Wildcard Matching | 🔴 hard
 
 ## Sorting and Searching
-- [ ] Divide Two Integers |
+- [ ] Divide Two Integers | 🟠 medium
 - [ ] Search in Rotated Sorted Array 👀 |
 - [ ] Find First and Last Position of Element in Sorted Array 👀 |
 - [ ] Pow(x, n) |
 - [ ] Merge Intervals 👀 |
 - [ ] Find Peak Element |
-- [ ] First Bad Version |
+- [ ] First Bad Version | 🟢 Easy
 - [ ] Intersection of Two Arrays 👀 |
 - [ ] Intersection of Two Arrays II 👀 |
 - [ ] Median of Two Sorted Arrays 👀 |
