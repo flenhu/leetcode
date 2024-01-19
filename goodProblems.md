@@ -1,55 +1,55 @@
 # MAMAA
 
 ## Arrays and Strings
-- [ ] Two Sum 👀
-- [ ] Longest Substring Without Repeating Characters 👀
-- [ ] String to Integer (atoi) 👀
-- [ ] Container With Most Water 👀
-- [ ] Integer to Roman 👀
-- [ ] Roman to Integer 👀
-- [ ] 3Sum 👀
-- [ ] 3Sum Closest 👀
-- [ ] 4Sum
-- [ ] Implement strStr()
-- [ ] Rotate Image 👀
-- [ ] Group Anagrams 👀
-- [ ] Minimum Window Substring 👀
-- [ ] Compare Version Numbers
-- [ ] Product of Array Except Self 👀
-- [ ] Missing Number 👀
-- [ ] Integer to English Words 👀
-- [ ] First Unique Character in a String 👀
-- [ ] Valid Parentheses 👀
-- [ ] Most Common Word
-- [ ] Reorder Log Files
-- [ ] Trapping Rain Water 👀
-- [ ] Valid Palindrome 👀
-- [ ] Reverse String
-- [ ] Reverse Words in a String
-- [ ] Reverse Words in a String II
-- [ ] Longest Palindromic Substring
-- [ ] Set Matrix Zeroes
-- [ ] Spiral Matrix 👀
-- [ ] Majority Element II
-- [ ] Subarray Sum Equals K 👀
-- [ ] Squares of a Sorted Array
-- [ ] Sparse Matrix Multiplication
-- [ ] Next Permutation
-- [ ] Multiply Strings
-- [ ] Jump Game
-- [ ] Plus One
-- [ ] Read N Characters Given Read4 II - Call multiple times
-- [ ] Longest Substring with At Most Two Distinct Characters
-- [ ] Missing Ranges
-- [ ] Next Closest Time
-- [ ] Expressive Words
+- [ ] Two Sum 👀 | 🟢 easy
+- [ ] Longest Substring Without Repeating Characters 👀 | 🟠 medium
+- [ ] String to Integer (atoi) 👀 |
+- [ ] Container With Most Water 👀 |
+- [ ] Integer to Roman 👀 |
+- [ ] Roman to Integer 👀 |
+- [ ] 3Sum 👀 |
+- [ ] 3Sum Closest 👀 |
+- [ ] 4Sum |
+- [ ] Implement strStr() |
+- [ ] Rotate Image 👀 |
+- [ ] Group Anagrams 👀 |
+- [ ] Minimum Window Substring 👀 |
+- [ ] Compare Version Numbers |
+- [ ] Product of Array Except Self 👀 |
+- [ ] Missing Number 👀 |
+- [ ] Integer to English Words 👀 |
+- [ ] First Unique Character in a String 👀 |
+- [ ] Valid Parentheses 👀 |
+- [ ] Most Common Word |
+- [ ] Reorder Log Files |
+- [ ] Trapping Rain Water 👀 |
+- [ ] Valid Palindrome 👀 |
+- [ ] Reverse String |
+- [ ] Reverse Words in a String |
+- [ ] Reverse Words in a String II |
+- [ ] Longest Palindromic Substring |
+- [ ] Set Matrix Zeroes |
+- [ ] Spiral Matrix 👀 |
+- [ ] Majority Element II |
+- [ ] Subarray Sum Equals K 👀 |
+- [ ] Squares of a Sorted Array |
+- [ ] Sparse Matrix Multiplication |
+- [ ] Next Permutation |
+- [ ] Multiply Strings |
+- [ ] Jump Game |
+- [ ] Plus One |
+- [ ] Read N Characters Given Read4 II - Call multiple times |
+- [ ] Longest Substring with At Most Two Distinct Characters |
+- [ ] Missing Ranges |
+- [ ] Next Closest Time |
+- [ ] Expressive Words |
 - [ ] Find And Replace in String
-- [ ] Maximize Distance to Closest Person
-- [ ] Merge k Sorted Lists
-- [ ] Kth Largest Element in an Array
-- [ ] Meeting Rooms II
-- [ ] Backspace String Compare
-- [ ] Minimum Cost to Hire K Workers
+- [ ] Maximize Distance to Closest Person |
+- [ ] Merge k Sorted Lists |
+- [ ] Kth Largest Element in an Array |
+- [ ] Meeting Rooms II |
+- [ ] Backspace String Compare |
+- [ ] Minimum Cost to Hire K Workers |
 - [ ] K Closest Points to Origin
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Add Binary
@@ -93,130 +93,130 @@
 - [ ] Word Ladder II
 - [ ] Word Ladder 👀
 - [ ] Course Schedule
-- [ ] Cut Off Trees for Golf Event
-- [ ] Flood Fill
-- [ ] Binary Tree Inorder Traversal
-- [ ] Populating Next Right Pointers in Each Node
-- [ ] Populating Next Right Pointers in Each Node II
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Same Tree
-- [ ] Maximum Depth of Binary Tree
-- [ ] Longest Increasing Path in a Matrix 👀
-- [ ] Course Schedule II
-- [ ] Count Complete Tree Nodes
-- [ ] Decode String
-- [ ] Evaluate Division
-- [ ] Cracking the Safe
-- [ ] Robot Room Cleaner
-- [ ] Most Stones Removed with Same Row or Column
-- [ ] Flip Equivalent Binary Trees
+- [ ] Cut Off Trees for Golf Event |
+- [ ] Flood Fill |
+- [ ] Binary Tree Inorder Traversal |
+- [ ] Populating Next Right Pointers in Each Node |
+- [ ] Populating Next Right Pointers in Each Node II |
+- [ ] Lowest Common Ancestor of a Binary Search Tree |
+- [ ] Construct Binary Tree from Preorder and Inorder Traversal |
+- [ ] Same Tree |
+- [ ] Maximum Depth of Binary Tree |
+- [ ] Longest Increasing Path in a Matrix 👀 |
+- [ ] Course Schedule II |
+- [ ] Count Complete Tree Nodes |
+- [ ] Decode String |
+- [ ] Evaluate Division |
+- [ ] Cracking the Safe |
+- [ ] Robot Room Cleaner |
+- [ ] Most Stones Removed with Same Row or Column |
+- [ ] Flip Equivalent Binary Trees |
 
 ## Recursion
-- [ ] Letter Combinations of a Phone Number 👀
-- [ ] Permutations 👀
-- [ ] Permutations II
-- [ ] Remove Invalid Parentheses
-- [ ] Regular Expression Matching
-- [ ] Subsets 👀
-- [ ] Strobogrammatic Number II 👀
-- [ ] Generate Parentheses 👀
-- [ ] Word Search 👀
-- [ ] Word Search II 👀
-- [ ] Combination Sum
-- [ ] Word Squares
-- [ ] Android Unlock Patterns
+- [ ] Letter Combinations of a Phone Number 👀 |
+- [ ] Permutations 👀 |
+- [ ] Permutations II |
+- [ ] Remove Invalid Parentheses |
+- [ ] Regular Expression Matching |
+- [ ] Subsets 👀 |
+- [ ] Strobogrammatic Number II 👀 |
+- [ ] Generate Parentheses 👀 |
+- [ ] Word Search 👀 |
+- [ ] Word Search II 👀 |
+- [ ] Combination Sum |
+- [ ] Word Squares |
+- [ ] Android Unlock Patterns |
 
 ## Backtracking
-- [ ] Wildcard Matching
+- [ ] Wildcard Matching |
 
 ## Sorting and Searching
-- [ ] Divide Two Integers
-- [ ] Search in Rotated Sorted Array 👀
-- [ ] Find First and Last Position of Element in Sorted Array 👀
-- [ ] Pow(x, n)
-- [ ] Merge Intervals 👀
-- [ ] Find Peak Element
-- [ ] First Bad Version
-- [ ] Intersection of Two Arrays 👀
-- [ ] Intersection of Two Arrays II 👀
-- [ ] Median of Two Sorted Arrays 👀
-- [ ] Two Sum II - Input array is sorted
-- [ ] Kth Largest Element in an Array
-- [ ] Meeting Rooms II
-- [ ] Top K Frequent Elements
-- [ ] K Closest Points to Origin 👀
-- [ ] Remove Duplicates from Sorted Array
-- [ ] Merge Sorted Array
+- [ ] Divide Two Integers |
+- [ ] Search in Rotated Sorted Array 👀 |
+- [ ] Find First and Last Position of Element in Sorted Array 👀 |
+- [ ] Pow(x, n) |
+- [ ] Merge Intervals 👀 |
+- [ ] Find Peak Element |
+- [ ] First Bad Version |
+- [ ] Intersection of Two Arrays 👀 |
+- [ ] Intersection of Two Arrays II 👀 |
+- [ ] Median of Two Sorted Arrays 👀 |
+- [ ] Two Sum II - Input array is sorted |
+- [ ] Kth Largest Element in an Array |
+- [ ] Meeting Rooms II |
+- [ ] Top K Frequent Elements |
+- [ ] K Closest Points to Origin 👀 |
+- [ ] Remove Duplicates from Sorted Array |
+- [ ] Merge Sorted Array |
 - [ ] Sort Colors 👀
-- [ ] Find Minimum in Rotated Sorted Array
-- [ ] Find Minimum in Rotated Sorted Array II
-- [ ] Search a 2D Matrix
-- [ ] Search a 2D Matrix II
-- [ ] Valid Anagram 👀
+- [ ] Find Minimum in Rotated Sorted Array |
+- [ ] Find Minimum in Rotated Sorted Array II |
+- [ ] Search a 2D Matrix |
+- [ ] Search a 2D Matrix II |
+- [ ] Valid Anagram 👀 |
 - [ ] Top K Frequent Words
-- [ ] Insert Interval
+- [ ] Insert Interval |
 - [ ] Count of Smaller Numbers After Self
 - [ ] Peak Index in a Mountain Array
 
 ## Dynamic Programming
-- [ ] Longest Palindromic Substring 👀
-- [ ] Longest Valid Parentheses
-- [ ] Decode Ways
-- [ ] Best Time to Buy and Sell Stock 👀
-- [ ] Word Break 👀
-- [ ] Range Sum Query 2D - Immutable
-- [ ] Continuous Subarray Sum
-- [ ] Maximum Subarray 👀
-- [ ] Coin Change 👀
-- [ ] Longest Increasing Subsequence
-- [ ] Maximum Product Subarray
-- [ ] Split Array Largest Sum
+- [ ] Longest Palindromic Substring 👀 |
+- [ ] Longest Valid Parentheses |
+- [ ] Decode Ways |
+- [ ] Best Time to Buy and Sell Stock 👀 |
+- [ ] Word Break 👀 |
+- [ ] Range Sum Query 2D - Immutable |
+- [ ] Continuous Subarray Sum |
+- [ ] Maximum Subarray 👀 |
+- [ ] Coin Change 👀 |
+- [ ] Longest Increasing Subsequence |
+- [ ] Maximum Product Subarray |
+- [ ] Split Array Largest Sum |
 
 ## Design
-- [ ] LRU Cache 👀
-- [ ] Binary Search Tree Iterator
-- [ ] Add and Search Word - Data structure design
-- [ ] Serialize and Deserialize Binary Tree 👀
-- [ ] Min Stack 👀
-- [ ] Find Median from Data Stream
-- [ ] Design Tic-Tac-Toe
-- [ ] Design Search Autocomplete System 👀
-- [ ] Maximum Frequency Stack
-- [ ] Serialize and Deserialize BST
-- [ ] Implement Trie (Prefix Tree)
-- [ ] Flatten Nested List Iterator
+- [ ] LRU Cache 👀 |
+- [ ] Binary Search Tree Iterator |
+- [ ] Add and Search Word - Data structure design |
+- [ ] Serialize and Deserialize Binary Tree 👀 |
+- [ ] Min Stack 👀 |
+- [ ] Find Median from Data Stream |
+- [ ] Design Tic-Tac-Toe |
+- [ ] Design Search Autocomplete System 👀 |
+- [ ] Maximum Frequency Stack |
+- [ ] Serialize and Deserialize BST |
+- [ ] Implement Trie (Prefix Tree) |
+- [ ] Flatten Nested List Iterator |
 - [ ] Insert Delete GetRandom O(1) 👀
 - [ ] Logger Rate Limiter
 
 ## Other
-- [ ] Expression Add Operators
-- [ ] Find All Anagrams in a String
-- [ ] Permutation in String
-- [ ] Verifying an Alien Dictionary
-- [ ] Interval List Intersections
-- [ ] Reverse Integer 👀
-- [ ] Second Highest Salary
-- [ ] Partition Labels
-- [ ] Prison Cells After N Days
-- [ ] Single Number
-- [ ] Roman to Integer
-- [ ] Excel Sheet Column Number
-- [ ] Find the Celebrity
-- [ ] Integer to English Words
-- [ ] The Skyline Problem
-- [ ] Valid Sudoku
-- [ ] Combine Two Tables
-- [ ] Rank Scores
-- [ ] Happy Number
-- [ ] Fizz Buzz
-- [ ] Jewels and Stones 👀
-- [ ] Candy
-- [ ] Isomorphic Strings
-- [ ] Strobogrammatic Number
-- [ ] Bulls and Cows
+- [ ] Expression Add Operators |
+- [ ] Find All Anagrams in a String |
+- [ ] Permutation in String |
+- [ ] Verifying an Alien Dictionary |
+- [ ] Interval List Intersections |
+- [ ] Reverse Integer 👀 |
+- [ ] Second Highest Salary |
+- [ ] Partition Labels |
+- [ ] Prison Cells After N Days |
+- [ ] Single Number |
+- [ ] Roman to Integer |
+- [ ] Excel Sheet Column Number |
+- [ ] Find the Celebrity |
+- [ ] Integer to English Words |
+- [ ] The Skyline Problem |
+- [ ] Valid Sudoku |
+- [ ] Combine Two Tables |
+- [ ] Rank Scores |
+- [ ] Happy Number |
+- [ ] Fizz Buzz |
+- [ ] Jewels and Stones 👀 |
+- [ ] Candy |
+- [ ] Isomorphic Strings |
+- [ ] Strobogrammatic Number |
+- [ ] Bulls and Cows |
 - [ ] Range Sum Query 2D - Mutable
-- [ ] My Calendar II
-- [ ] Swap Adjacent in LR String
-- [ ] Guess the Word
-- [ ] Minimum Area Rectangle
+- [ ] My Calendar II |
+- [ ] Swap Adjacent in LR String |
+- [ ] Guess the Word |
+- [ ] Minimum Area Rectangle |
