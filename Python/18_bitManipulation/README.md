@@ -1,8 +1,8 @@
 # Bit Manipulation in <img src="../../assets/pythonLogo.png" alt="Python logo" style="height: 1em; vertical-align: sub;">
 
 ## Blind 75 (🧑‍🦯7️⃣5️⃣)
-- [ ] 191. Number of 1 Bits · easy 🟢
-- [ ] 338. Counting Bits · easy 🟢
+- [x] 191. Number of 1 Bits · easy 🟢
+- [x] 338. Counting Bits · easy 🟢
 - [ ] 190. Reverse Bits · easy 🟢
 - [ ] 268. Missing Number · easy 🟢
 - [ ] 371. Sum of Two Integers · medium 🟠
