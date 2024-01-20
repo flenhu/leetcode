@@ -98,6 +98,11 @@
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0100_sameTree.ipynb)
 
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+  | easy 🟢 
+  | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: middle">](blind75.md)
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/07_trees/0572_subtreeOfAnotherTree.ipynb)
+
 ## Tries
 
 ## Heap & Priority Queue
