@@ -62,6 +62,10 @@
   | easy 🟢 
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
 
+- [Subtree of Another Tree Tree](07_trees/0572_subtreeOfAnotherTree.ipynb)
+  | easy 🟢 
+  | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
+
 ## [Tries](08_tries/README.md)
 
 ## [Heap & Priority Queue](09_heapAndPriorityQueue/README.md)

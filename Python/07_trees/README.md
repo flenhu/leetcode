@@ -4,7 +4,7 @@
 - [x] [Invert Binary Tree](0226_invertBinaryTree.ipynb) | easy 🟢 
 - [x] [Maximum Depth of Binary Tree](0104_maximumDepthOfBinaryTree.ipynb) | easy 🟢 
 - [x] [Same Tree](0100_sameTree.ipynb) | easy 🟢 
-- [ ] 572. Subtree of Another Tree | easy 🟢 
+- [x] [Subtree of Another Tree](0572_subtreeOfAnotherTree.ipynb) | easy 🟢 
 - [ ] 235. Lowest Common Ancestor of a Binary Search Tree | medium 🟠
 - [ ] 102. Binary Tree Level Order Traversal | medium 🟠
 - [ ] 98. Validate Binary Search Tree | medium 🟠
