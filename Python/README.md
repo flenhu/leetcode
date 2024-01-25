@@ -19,6 +19,9 @@
 - [Is Subsequence](01_arraysAndHashing/0392_isSubsequence.ipynb)
   | easy 🟢
 
+- [Length of Last Word](01_arraysAndHashing/0058_lengthOfLastWord.ipynb)
+  | easy 🟢
+
 - [Two Sum](01_arraysAndHashing/0001_twoSum.ipynb)
   | easy 🟢
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
