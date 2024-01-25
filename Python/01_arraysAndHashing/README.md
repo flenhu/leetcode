@@ -20,7 +20,7 @@
 - [x] [1929. Concatenation of Array](1929_concatenationofArray.ipynb) | easy 🟢
 - [ ] 1299. Replace Elements With Greatest Element on Right Side | easy 🟢
 - [x] [Is Subsequence](0392_isSubsequence.ipynb) | easy 🟢
-- [ ] 58. Length of Last Word | easy 🟢
+- [x] [Length of Last Word](0058_lengthOfLastWord.ipynb) | easy 🟢
 - [ ] 14. Longest Common Prefix | easy 🟢
 - [ ] 118. Pascals Triangle | easy 🟢
 - [x] [27. Remove Element](0027_removeElement.ipynb) | easy 🟢
