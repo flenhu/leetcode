@@ -37,6 +37,10 @@
   | easy 🟢
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0392_isSubsequence.ipynb)
 
+- [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0058_lengthOfLastWord.ipynb)
+
 - [Two Sum](https://leetcode.com/problems/two-sum/)
   | easy 🟢
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: bottom">](blind75.md)
