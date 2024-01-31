@@ -17,14 +17,14 @@
 
 ## NC All
 
-- [x] [1929. Concatenation of Array](1929_concatenationofArray.ipynb) | easy 🟢
-- [ ] 1299. Replace Elements With Greatest Element on Right Side | easy 🟢
+- [x] [Concatenation of Array](1929_concatenationofArray.ipynb) | easy 🟢
+- [x] [Replace Elements With Greatest Element on Right Side](1299_replaceElementsWithGreatestElementOnRightSide.ipynb) | easy 🟢
 - [x] [Is Subsequence](0392_isSubsequence.ipynb) | easy 🟢
 - [x] [Length of Last Word](0058_lengthOfLastWord.ipynb) | easy 🟢
-- [ ] 14. Longest Common Prefix | easy 🟢
-- [ ] 118. Pascals Triangle | easy 🟢
+- [x] [Longest Common Prefix](0014_longestCommonPrefix.ipynb) | easy 🟢
+- [x] [Pascals Triangle](0118_pascalsTriangle.ipynb) | easy 🟢
 - [x] [27. Remove Element](0027_removeElement.ipynb) | easy 🟢
-- [ ] 929. Unique Email Adresses | easy 🟢
+- [ ] [Unique Email Adresses](0929_uniqueEmailAddresses.ipynb) | easy 🟢
 - [ ] 205. Isomorphic Strings | easy 🟢
 - [ ] 605. Can Place Flowers | easy 🟢
 - [ ] 169. Majority Element | easy 🟢
