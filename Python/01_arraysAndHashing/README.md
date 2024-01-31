@@ -23,7 +23,7 @@
 - [x] [Length of Last Word](0058_lengthOfLastWord.ipynb) | easy 🟢
 - [x] [Longest Common Prefix](0014_longestCommonPrefix.ipynb) | easy 🟢
 - [x] [Pascals Triangle](0118_pascalsTriangle.ipynb) | easy 🟢
-- [x] [27. Remove Element](0027_removeElement.ipynb) | easy 🟢
+- [x] [Remove Element](0027_removeElement.ipynb) | easy 🟢
 - [ ] [Unique Email Adresses](0929_uniqueEmailAddresses.ipynb) | easy 🟢
 - [ ] 205. Isomorphic Strings | easy 🟢
 - [ ] 605. Can Place Flowers | easy 🟢
