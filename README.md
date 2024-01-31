@@ -46,9 +46,33 @@
   | [<img src="assets/blind75Logo.png" style="height: 1em;  vertical-align: bottom">](blind75.md)
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0001_twoSum.ipynb)
 
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0014_longestCommonPrefix.ipynb)
+
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0118_pascalsTriangle.ipynb)
+
 - [Remove Element](https://leetcode.com/problems/remove-element/)
   | easy 🟢
   | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0027_removeElement.ipynb)
+
+- [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0929_uniqueEmailAddresses.ipynb)
+
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0205_isomorphicStrings.ipynb)
+
+- [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0605_canPlaceFlowers.ipynb)
+
+- [Majority Element](https://leetcode.com/problems/majority-element/description/)
+  | easy 🟢
+  | [<img src="assets/pythonLogo.png" style="height: 1em; vertical-align: middle">](Python/01_arraysAndHashing/0169_majorityElement.ipynb)
 
 ## Two Pointers
 
