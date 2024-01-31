@@ -26,7 +26,25 @@
   | easy 🟢
   | [<img src="../assets/blind75Logo.png" style="height: 1em; vertical-align: middle">](../blind75.md)
 
+- [Longest Common Prefix](01_arraysAndHashing/0014_longestCommonPrefix.ipynb)
+  · easy 🟢
+
+- [Pascal's Triangle](01_arraysAndHashing/0118_pascalsTriangle.ipynb)
+  · easy 🟢
+
 - [Remove Element](01_arraysAndHashing/0027_removeElement.ipynb)
+  · easy 🟢
+
+- [Unique Email Addresses](01_arraysAndHashing/0929_uniqueEmailAddresses.ipynb)
+  · easy 🟢
+
+- [Isomorphic Strings](01_arraysAndHashing/0205_isomorphicStrings.ipynb)
+  · easy 🟢
+
+- [Can Place Flowers](01_arraysAndHashing/0605_canPlaceFlowers.ipynb)
+  · easy 🟢
+
+- [Majority Element]()
   · easy 🟢
 
 ## [Two Pointers](02_twoPointers/README.md)
