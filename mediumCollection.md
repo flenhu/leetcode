@@ -6,13 +6,13 @@
 - [ ] Group Anagrams
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Palindromic Substring
-- [ ] Increasing Triplet Subsequence
+- [ ] Increasing Triplet Subsequence 💎
 - [ ] Missing Ranges 🔒
-- [ ] Count and Say
+- [ ] Count and Say 💎
 
 ## Linked List
 - [ ] Add Two Numbers
-- [ ] Odd Even Linked List
+- [ ] Odd Even Linked List 💎
 - [ ] Intersection of Two Linked Lists
   
 ## Trees and Graphs
@@ -21,7 +21,7 @@
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Populating Next Right Pointers in Each Node
 - [ ] Kth Smallest Element in a BST
-- [ ] Inorder Successor in a BST 🔒
+- [ ] Inorder Successor in a BST 🔒💎
 - [ ] Number of Islands
 
 ## Backtracking
@@ -36,7 +36,7 @@
 - [ ] Top K Frequent Elements
 - [ ] Kth Largest Element in an Array
 - [ ] Find Peak Element 
-- [ ] Search for a Range
+- [ ] Search for a Range 💎
 - [ ] Merge Intervals
 - [ ] Search in Rotated Sorted Array
 - [ ] Meeting Rooms II
@@ -49,19 +49,19 @@
 - [ ] Longest Increasing Subsequence
 
 ## Design 
-- [ ] Flatten 2D Vector 🔒
+- [ ] Flatten 2D Vector 🔒💎
 - [ ] Serialize and Deserialize Binary Tree 🔒
 - [ ] Insert Delete GetRandom O(1)
 - [ ] Design Tic-Tac-Toe 🔒
 
 ## Math
 - [ ] Happy Number
-- [ ] Factorial Trailing Zeroes
+- [ ] Factorial Trailing Zeroes 💎
 - [ ] Excel Sheet Column Number
 - [ ] Pow(x, n)
 - [ ] Sqrt(x)
 - [ ] Divide Two Integers
-- [ ] Fraction to Recurring Decimal
+- [ ] Fraction to Recurring Decimal 💎
 
 ## Other
 - [ ] Sum of Two Integers
