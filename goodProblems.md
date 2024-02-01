@@ -1,4 +1,6 @@
 # MAMAA
+👀: multiple occurences
+
 
 ## Arrays and Strings
 - [ ] Two Sum 👀 | 🟢 Easy
