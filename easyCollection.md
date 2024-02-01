@@ -21,7 +21,7 @@
 - [ ] String to Integer (atoi)
 - [ ] Implement strStr()
 ## Linked List
-- [ ] Delete Node in a Linked List
+- [ ] Delete Node in a Linked List 💎
 - [ ] Remove Nth Node From End of List
 - [ ] Reverse Linked List
 - [ ] Merge Two Sorted Lists
@@ -41,16 +41,16 @@
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Maximum Subarray
 ## Design 
-- [ ] Shuffle an Array
+- [ ] Shuffle an Array 💎
 - [ ] Min Stack
 ## Math
 - [ ] Fizz Buzz
-- [ ] Count Primes
-- [ ] Power of Three
+- [ ] Count Primes 💎
+- [ ] Power of Three 💎
 - [ ] Roman to Integer
 ## Other
 - [ ] Number of 1 Bits
-- [ ] Hamming Distance
+- [ ] Hamming Distance 💎
 - [ ] Reverse Bits
 - [ ] Pascal's Triangle
 - [ ] Valid Parentheses 
