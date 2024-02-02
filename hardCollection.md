@@ -3,14 +3,14 @@
 ## Array and Strings
 - [ ] Product of Array Except Self
 - [ ] Spiral Matrix
-- [ ] 4Sum II
+- [ ] 4Sum II 💎
 - [ ] Container With Most Water
-- [ ] Game of Life
+- [ ] Game of Life 💎
 - [ ] First Missing Positive
 - [ ] Longest Consecutive Sequence 
 - [ ] Find the Duplicate Number
-- [ ] Longest Substring with At Most K Distinct Characters 🔒
-- [ ] Basic Calculator II
+- [ ] Longest Substring with At Most K Distinct Characters 🔒💎
+- [ ] Basic Calculator II 💎
 - [ ] Sliding Window Maximum
 - [ ] Maximum Window Substring
   
@@ -24,7 +24,7 @@
 - [ ] Surrounded Regions
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Friend Circles
+- [ ] Friend Circles 💎
 - [ ] Course Schedule
 - [ ] Course Schedule II
 - [ ] Longest Increasing Path in a Matrix
@@ -39,8 +39,8 @@
 - [ ] Regular Expression Matching
 
 ## Sorting and Searching
-- [ ] Wiggle Sort II
-- [ ] Kth Smallest Element in a Sorted Matrix
+- [ ] Wiggle Sort II 💎
+- [ ] Kth Smallest Element in a Sorted Matrix 💎
 - [ ] Median of Two Sorted Arrays
 
 ## Dynamic Programming
@@ -49,7 +49,7 @@
 - [ ] Best Time to Buy and Sell Stock with Cooldown
 - [ ] Perfect Squares
 - [ ] Word Break
-- [ ] Word Break II
+- [ ] Word Break II 💎
 - [ ] Burst Balloons
 
 ## Design 
@@ -61,10 +61,10 @@
 
 ## Math
 - [ ] Largest Number
-- [ ] Max Points on a Line
+- [ ] Max Points on a Line 💎
 
 ## Other
-- [ ] Queue Reconstruction by Height
+- [ ] Queue Reconstruction by Height 💎
 - [ ] Trapping Rain Water
 - [ ] The Skyline Problem
 - [ ] Largest Rectangle in Histogram
