@@ -24,18 +24,18 @@
 - [x] [Longest Common Prefix](0014_longestCommonPrefix.ipynb) | easy 🟢
 - [x] [Pascals Triangle](0118_pascalsTriangle.ipynb) | easy 🟢
 - [x] [Remove Element](0027_removeElement.ipynb) | easy 🟢
-- [ ] [Unique Email Adresses](0929_uniqueEmailAddresses.ipynb) | easy 🟢
-- [ ] 205. Isomorphic Strings | easy 🟢
-- [ ] 605. Can Place Flowers | easy 🟢
-- [ ] 169. Majority Element | easy 🟢
-- [ ] 496. Next Greater Element I | easy 🟢
-- [ ] 724. Find Pivot Index | easy 🟢
-- [ ] 303. Range Sum Query - Immutable | easy 🟢
-- [ ] 448. Find All Numbers Disappeared in An Array | easy 🟢
-- [ ] 1189. Maximum Number of Balloons | easy 🟢
-- [ ] 290. Word Pattern | easy 🟢
-- [ ] 705. Design HashSet | easy 🟢
-- [ ] 706. Design HashMap | easy 🟢
+- [x] [Unique Email Adresses](0929_uniqueEmailAddresses.ipynb) | easy 🟢
+- [x] [Isomorphic Strings](0205_isomorphicStrings.ipynb) | easy 🟢
+- [x] [Can Place Flowers](0605_canPlaceFlowers.ipynb) | easy 🟢
+- [x] [Majority Element](0169_majorityElement.ipynb) | easy 🟢
+- [x] [Next Greater Element I](0496_nextGreaterElementI.ipynb) | easy 🟢
+- [x] [Find Pivot Index](0724_findPivotIndex.ipynb) | easy 🟢
+- [x] [Range Sum Query - Immutable](0303_rangeSumQuery-Immutable.ipynb) | easy 🟢
+- [x] [Find All Numbers Disappeared in An Array](0448_findDisappearedNums.ipynb) | easy 🟢
+- [x] [Maximum Number of Balloons](1189_maxNumOfBalloons.ipynb) | easy 🟢
+- [x] [Word Pattern](0290_wordPattern.ipynb) | easy 🟢
+- [x] [Design HashSet](0705_designHashSet.ipynb) | easy 🟢
+- [x] [Design HashMap](0706_designHashMap.ipynb) | easy 🟢
 - [ ] 912. Sort an Array | medium 🟠
 - [ ] 75. Sort Colors | medium 🟠
 - [ ] 535. Encode and Decode TinyURL | medium 🟠
